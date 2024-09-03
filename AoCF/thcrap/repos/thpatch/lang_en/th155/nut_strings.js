@@ -1,0 +1,22 @@
+{
+    "Yukari boss": "Switch to slave to avoid the red charge effect attacks!",
+    "Dir creation failed": "Failed to create directory",
+    "Save replay": "Save replay?",
+    "Game title": "Touhou Hyouibana ~ Antinomy of Common Flowers",
+    "Continue": "Continue?",
+    "Yes": "Yes",
+    "No": "No",
+    "No change": "No change",
+    "Delete file": "Delete file?",
+    "No file": "No file",
+    "Loading": "Loading...",
+    "Can't use": "Can't use",
+    "Random Select": "Random Select",
+    "Duo": "Duo",
+    "Trio": "Trio",
+    "Squad": "Squad",
+    "New version 1": "A new version is available.",
+    "New version 2": "Please update.",
+    "Joon 1": "A: Melee  B: Shot  C: Spell Shot",
+    "Yukari boss 2": "Black Bullets won't hit the slave"
+}

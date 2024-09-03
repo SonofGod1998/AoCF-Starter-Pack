@@ -1,0 +1,79 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Oh? I nodded off as",
+            "usual, but where's this?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Oh, it's Sumireko.",
+            "<balloon$a11x3>",
+            "How weird, to run into",
+            "you in a place like this."
+        ]
+    },
+    "3": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Ah, Reimu-cchi.",
+            "<balloon$a11x3>",
+            "If you're here, then",
+            "this must be Gensokyo."
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Does this look like",
+            "Gensokyo to you?"
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a05x2>",
+            "?"
+        ]
+    },
+    "6": {
+        "lines": [
+            "<balloon$a11x3>",
+            "You're the real Sumireko!",
+            "You don't belong here!"
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Open your eyes!"
+        ]
+    },
+    "8": {
+        "lines": [
+            "This place is neither",
+            "the outside world, nor Gensokyo."
+        ]
+    },
+    "9": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Ah ha ha, you're like",
+            "a little lost child."
+        ]
+    },
+    "10": {
+        "lines": [
+            "You're acting weird, Reimu.",
+            "I just wanted to stop by Kourindou..."
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a11x3>",
+            "If you want to escape,",
+            "then find the other Sumireko."
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "1": {
+        "lines": [
+            "That's weird. I can't",
+            "teleport to anywhere I know."
+        ]
+    },
+    "2": {
+        "lines": [
+            "No matter what I do, I can't",
+            "get out of this creepy world."
+        ]
+    },
+    "3": {
+        "lines": [
+            "<balloon$a08x2>",
+            "So you're lost."
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Ah! Marisa-cchi!"
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I'm saved! You gotta listen,",
+            "I can't get out of here!"
+        ]
+    },
+    "6": {
+        "lines": [
+            "<balloon$a08x3>",
+            "Heh heh.",
+            "Can't get out?"
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Even though this world is so free?!"
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a08x3>",
+            "Wha?",
+            "What are you-"
+        ]
+    },
+    "9": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Blame that perfect",
+            "possession stuff. There's",
+            "less time to be free."
+        ]
+    },
+    "10": {
+        "lines": [
+            "<balloon$a11x2>",
+            "No! You're not Marisa!"
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Ah ha ha!",
+            "<balloon$a11x3>",
+            "Of course I'm Marisa.",
+            "No doubt about that."
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Reimu was acting weird earlier too!"
+        ]
+    },
+    "13": {
+        "lines": [
+            "<balloon$a15x3>",
+            "You look exactly the same,",
+            "but it's like you're completely",
+            "different on the inside."
+        ]
+    },
+    "14": {
+        "lines": [
+            "Don't tell me I'm lost in some",
+            "crazy world? A parallel dimension?!"
+        ]
+    },
+    "15": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I'm not sure if that's good",
+            "intuition or a terrible one."
+        ]
+    },
+    "16": {
+        "lines": [
+            "<balloon$a11x3>",
+            "This is the Dream World.",
+            "You're sleeping."
+        ]
+    }
+}

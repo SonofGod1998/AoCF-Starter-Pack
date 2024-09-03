@@ -1,0 +1,124 @@
+{
+    "1": {
+        "lines": [
+            "All right! Next I'm the master!",
+            "Hey, you! Let's have a",
+            "perfect possession duel!"
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Good timing.",
+            "<balloon$a15x3>",
+            "I was just thinking about doing",
+            "some training on the master's side."
+        ]
+    },
+    "3": {
+        "lines": [
+            "A monk and a hermit?",
+            "I thought you were rivals.",
+            "I'm surprised to see you together."
+        ]
+    },
+    "4": {
+        "lines": [
+            "This was Lady Hijiri's plan.",
+            "We're researching perfect",
+            "possession together."
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Who cares? As long",
+            "as you aren't weak!"
+        ]
+    },
+    "6": {
+        "lines": [
+            "Yeah, figures I wouldn't be",
+            "any good at being the master."
+        ]
+    },
+    "7": {
+        "lines": [
+            "Your teamwork's all messed up.",
+            "You're not used to working together."
+        ]
+    },
+    "8": {
+        "lines": [
+            "Personally I'm fine with just",
+            "being the slave. As long as I",
+            "can go wild when it's my turn."
+        ]
+    },
+    "9": {
+        "lines": [
+            "Is that how it is?",
+            "I thought everyone would prefer",
+            "seizing power as the master."
+        ]
+    },
+    "10": {
+        "lines": [
+            "But isn't it easier to focus on the fight",
+            "when you can leave the timing of",
+            "the swaps to someone else?"
+        ]
+    },
+    "11": {
+        "lines": [
+            "If you'd rather be the slave,",
+            "there's always the compulsory",
+            "possession method."
+        ]
+    },
+    "12": {
+        "lines": [
+            "You mean that thing where you can",
+            "possess people who have their guards",
+            "down by meditating deeply?"
+        ]
+    },
+    "13": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Yeah, that.",
+            "<balloon$a11x3>",
+            "Oh, whoops, it's time",
+            "for us to switch, but..."
+        ]
+    },
+    "14": {
+        "lines": [
+            "I can't contact Futo.",
+            "What do I do now?"
+        ]
+    },
+    "15": {
+        "lines": [
+            "You're taking turns being the master?",
+            "What an interesting pair."
+        ]
+    },
+    "16": {
+        "lines": [
+            "It's because we had this huge fight",
+            "over who would be the master."
+        ]
+    },
+    "17": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Oh, I know!",
+            "Since there's no contact from Futo,",
+            "<balloon$a15x3>",
+            "maybe I can take this opportunity",
+            "to try an experiment with",
+            "compulsory possession?"
+        ]
+    }
+}

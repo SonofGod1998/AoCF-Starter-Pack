@@ -1,0 +1,85 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Salutations! Let us have",
+            "a perfect possession duel!"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Sure thing! But you found me",
+            "before I could possess anyone,",
+            "so could you hold on a bit?"
+        ]
+    },
+    "3": {
+        "lines": [
+            "<balloon$a11x3>",
+            "No, but aren't thou",
+            "already possessed?"
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Huh?"
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Tada!",
+            "<balloon$a11x3>",
+            "Random possession was",
+            "A! HUGE! SUCCESS!"
+        ]
+    },
+    "6": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Compulsory possession, huh?",
+            "No matter, let's duel!"
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a08x3>",
+            "Scary! When did",
+            "I get possessed?!"
+        ]
+    },
+    "8": {
+        "lines": [
+            "I lost! Not only do I get possessed",
+            "by some weirdo I don't really know,",
+            "but then I lose. What a disgrace."
+        ]
+    },
+    "9": {
+        "lines": [
+            "Thy combination was the worst.",
+            "Thou needst more training."
+        ]
+    },
+    "10": {
+        "lines": [
+            "So not only do I get partnered up",
+            "with someone I didn't want, but then",
+            "I also get lectured. What a disgrace."
+        ]
+    },
+    "11": {
+        "lines": [
+            "Heeey! It's about time for us",
+            "to switch like you promised!"
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$a08x3>",
+            "Oh, is that so?",
+            "My apologies."
+        ]
+    }
+}

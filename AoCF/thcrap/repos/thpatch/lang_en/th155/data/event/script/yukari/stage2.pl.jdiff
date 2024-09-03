@@ -1,0 +1,390 @@
+{
+    "1": {
+        "lines": [
+            "All right, you're possessed!",
+            "Now Joon's victory is assured!"
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$b11x2>",
+            "...Wait, Joon?",
+            " Where'd you go?"
+        ]
+    },
+    "3": {
+        "lines": [
+            "Oh... so that's what it was."
+        ]
+    },
+    "4": {
+        "lines": [
+            "Yukari's explanation gave me no clue",
+            "what was going to happen."
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Y-You! How are you moving freely?!"
+        ]
+    },
+    "6": {
+        "lines": [
+            "You were supposed to become Joon's slave",
+            "and have your freedom taken away..."
+        ]
+    },
+    "7": {
+        "lines": [
+            "True, you have the power to",
+            "guarantee defeat for anyone",
+            "you possess..."
+        ]
+    },
+    "8": {
+        "lines": [
+            "And your sister, the plague god,",
+            "can switch slaves, forcing you",
+            "on someone else..."
+        ]
+    },
+    "9": {
+        "lines": [
+            "In other words, you can force defeat",
+            "on any opponent. Absolutely."
+        ]
+    },
+    "10": {
+        "lines": [
+            "<balloon$a11x3>",
+            "You really are the worst,",
+            "most disastrous combo."
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a11x3>",
+            "But you were no match for",
+            "two truly strong people."
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$c15x3>",
+            "You were supposed to lose control of",
+            "your body when you possessed Joon..."
+        ]
+    },
+    "13": {
+        "lines": [
+            "<balloon$a15x2>",
+            "But how?! How are you still moving?"
+        ]
+    },
+    "14": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Look closely.",
+            "You're the master now."
+        ]
+    },
+    "15": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Eh?"
+        ]
+    },
+    "16": {
+        "lines": [
+            "<balloon$a11x3>",
+            "And I'm a master too.",
+            "Yukari flipped the border",
+            "of master and slave."
+        ]
+    },
+    "17": {
+        "lines": [
+            "So the partners who were switched",
+            "were Yukari and your sister."
+        ]
+    },
+    "18": {
+        "lines": [
+            "<balloon$b11x2>",
+            "Dammit! It was a trap!"
+        ]
+    },
+    "19": {
+        "lines": [
+            "I'm the enemy's slave now!"
+        ]
+    },
+    "20": {
+        "lines": [
+            "<balloon$a05x2>",
+            "What?!"
+        ]
+    },
+    "21": {
+        "lines": [
+            "<balloon$b15x3>",
+            "So I'm not possessing Yukari then...?",
+            "Wait, then my slave must be-"
+        ]
+    },
+    "22": {
+        "lines": [
+            "Right answer! Like this, both your",
+            "power as a poverty god and her power",
+            "as a plague god are meaningless."
+        ]
+    },
+    "23": {
+        "lines": [
+            "Now Reimu, I won't be able to",
+            "offer you any more assistance.",
+            "Take care of this poverty god."
+        ]
+    },
+    "24": {
+        "lines": [
+            "They switched the master and slave?",
+            "They can do that? There's someone",
+            "who can do that?!"
+        ]
+    },
+    "25": {
+        "lines": [
+            "<balloon$c15x3>",
+            "Ah, we're done for! There's no",
+            "way you can win on your own, sis!"
+        ]
+    },
+    "26": {
+        "lines": [
+            "You're totally useless in battle!",
+            "You're just a gloomy, poor, smelly, miser",
+            "who can't do anything on her own!"
+        ]
+    },
+    "27": {
+        "lines": [
+            "All you ever do is complain! There's",
+            "not a single good thing about you!",
+            "And now you're on your own!"
+        ]
+    },
+    "28": {
+        "lines": [
+            "I mean, you're a god of poverty who's",
+            "never experienced victory even once."
+        ]
+    },
+    "29": {
+        "lines": [
+            "In a one-on-one fight with the goddamned",
+            "incident-resolving shrine maiden!?"
+        ]
+    },
+    "30": {
+        "lines": [
+            "<balloon$c11x2>",
+            "It's over! We lost!"
+        ]
+    },
+    "31": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Okay okay, that's enough",
+            "of the harsh farewell."
+        ]
+    },
+    "32": {
+        "lines": [
+            "Now, all I have to do is beat",
+            "this small fry poverty god whose",
+            "only power is to make people lose."
+        ]
+    },
+    "33": {
+        "lines": [
+            "<balloon$c11x2>",
+            "Joon... All of you..."
+        ]
+    },
+    "34": {
+        "lines": [
+            "<balloon$b15x3>",
+            "Even if everyone's always looking down",
+            "on me, you didn't have to go that far!"
+        ]
+    },
+    "35": {
+        "lines": [
+            "<balloon$a15x2>",
+            "My name is Shion Yorigami!"
+        ]
+    },
+    "36": {
+        "lines": [
+            "I'm a poverty god who brings bad",
+            "luck even to crying children!"
+        ]
+    },
+    "37": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Wh-What an incredible negative aura!"
+        ]
+    },
+    "38": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I've never been serious",
+            "about this until now."
+        ]
+    },
+    "39": {
+        "lines": [
+            "<balloon$b15x3>",
+            "If I let it all out, everyone will",
+            "be unfortunate, including me!"
+        ]
+    },
+    "40": {
+        "lines": [
+            "But I've had enough.",
+            "Who cares about winning or losing?"
+        ]
+    },
+    "41": {
+        "lines": [
+            "<balloon$c11x2>",
+            "When I'm done here,",
+            "we'll all be losers."
+        ]
+    },
+    "42": {
+        "lines": [
+            "<balloon$b11x2>",
+            "The shrine maiden,",
+            "me, and you too, Joon!"
+        ]
+    },
+    "43": {
+        "lines": [
+            "<balloon$c15x3>",
+            "This negative aura makes",
+            "the plague god seem like nothing!"
+        ]
+    },
+    "44": {
+        "lines": [
+            "Did our plan fail when we put",
+            "the poverty god in center stage?!"
+        ]
+    },
+    "45": {
+        "lines": [
+            "<balloon$a11x3>",
+            "No one wins.",
+            "No one finds happiness."
+        ]
+    },
+    "46": {
+        "lines": [
+            "<balloon$b15x3>",
+            "I'll show you a world where",
+            "we all suffer together!"
+        ]
+    },
+    "47": {
+        "lines": [
+            "<balloon$b15x3>",
+            "If I get swallowed up by this,",
+            "I'll lose for no reason!"
+        ]
+    },
+    "48": {
+        "lines": [
+            "<balloon$b15x3>",
+            "Pull yourself together! I'm the",
+            "incident-resolving shrine maiden!"
+        ]
+    },
+    "49": {
+        "lines": [
+            "The plague and poverty gods were",
+            "the worst, most disastrous combo?"
+        ]
+    },
+    "50": {
+        "lines": [
+            "<balloon$b11x2>",
+            "Don't make me laugh!"
+        ]
+    },
+    "51": {
+        "lines": [
+            "I was the worst and most disastrous",
+            "all on my own! I am the god",
+            "of poverty, Shion Yorigami!"
+        ]
+    },
+    "52": {
+        "lines": [
+            "<balloon$b11x2>",
+            "Die cowering before poverty!"
+        ]
+    },
+    "53": {
+        "lines": [
+            "<balloon$b11x2>",
+            "Uwaaaa!"
+        ]
+    },
+    "54": {
+        "lines": [
+            "What is this?! The atmosphere",
+            "turned different all of a sudden!"
+        ]
+    },
+    "55": {
+        "lines": [
+            "<balloon$c11x2>",
+            "My entire pent-up aura",
+            "is flowing out!"
+        ]
+    },
+    "56": {
+        "lines": [
+            "<balloon$a11x3>",
+            "So you've been hiding that",
+            "glaring aura under",
+            "the negative one all along!"
+        ]
+    },
+    "57": {
+        "lines": [
+            "<balloon$b15x3>",
+            "I don't care anymore!",
+            "I'm not going to hold anything back!"
+        ]
+    },
+    "58": {
+        "lines": [
+            "<balloon$b15x3>",
+            "By your grace, my power is",
+            "flowing like the endless tide!"
+        ]
+    },
+    "59": {
+        "lines": [
+            "<balloon$b15x3>",
+            "Now victory is in my hands!",
+            "It's just like I thought.",
+            "You lost to your own ability!"
+        ]
+    }
+}

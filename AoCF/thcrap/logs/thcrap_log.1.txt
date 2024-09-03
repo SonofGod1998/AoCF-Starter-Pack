@@ -1,0 +1,175 @@
+――――――――――――――――――――――――――――――――――――――――――――――――――
+Touhou Community Reliant Automatic Patcher logfile
+Branch: stable
+Version: 2024-08-18
+Current time: Sep 2 2024 1:36:39
+Build time: Aug 18 2024 18:38:01
+Built by: brliron
+Command line: "I:\Github\AoCF-Starter-Pack\AoCF\thcrap\bin\thcrap_loader.exe" "en.js" th155
+
+System Information:
+CPU: AMD Ryzen 5 5600G with Radeon Graphics         
+RAM: 16.29GiB free out of 31.8GiB, 48% used
+OS/Runtime: Windows 11, Build 22631
+Code pages: ANSI=932, OEM=932
+
+Screens:
+Generic PnP Monitor on AMD Radeon RX 7900 XTX: 2560x1440@32 60Hz
+Generic PnP Monitor on AMD Radeon RX 7900 XTX: 1920x1080@32 240Hz
+Generic PnP Monitor on AMD Radeon RX 7900 XTX: 3840x2160@32 60Hz
+――――――――――――――――――――――――――――――――――――――――――――――――――
+
+[update] Running update 0...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'thcrap.dll' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 0 done.
+[update] Running update 1...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'config' exists.
+[update] Detect test - checking if 'logs' exists.
+[update] Detect test - checking if 'repos' exists.
+[update] Detect test - checking if 'version-resolve-installed.dat' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 1 done.
+[update] Running update 2...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'thcrap_configure.exe' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 2 done.
+Parsing command line...
+Loading run configuration I:\Github\AoCF-Starter-Pack\AoCF\thcrap\config\en.js... found
+Using exe I:\Github\AoCF-Starter-Pack\AoCF\thcrap\../th155/th155.exe
+Command-line parsing finished
+Updates are enabled. Initializing update UI
+(JSON) Resolving versions.js... 
+ + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tsa/versions.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/versions.js
+Hashing executable... → th155 v1.10 (original) (codepage 0)
+(JSON) Resolving configuration for th155.js... 
+ + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tsa/global.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/global.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/th155.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/th155.v1.10.js
+   + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/script_latin/global.js
+   + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/script_latin/th155.js
+   + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/script_latin/th155.v1.10.js
+Creating UI thread and main window... done.
+Looking for thcrap updates...
+Checking for engine updates...
+Update: using libcurl backend
+thcrap is up to date.
+Updating patches with global filter (don't download game-specific files)...
+Deleting script_latin/th155.v1.10.js
+Deleting script_latin/th155.v1.10_steam.js
+Deleting script_latin/th155.v1.19_beta3.js
+Deleting base_tasofro/th155.v1.10.js
+Deleting base_tasofro/th155.v1.10_steam.js
+Deleting base_tasofro/th155.v1.19_beta3.js
+[7/36] script_latin/marilega.js: OK (562b)
+[8/36] script_latin/stringdefs.js: OK (3010b)
+[8/36] base_tasofro/th123.js: OK (1397b)
+[8/36] base_tasofro/nsml.js: OK (725b)
+[8/36] base_tasofro/th105.v1.06a.js: OK (919b)
+[8/36] base_tasofro/th105.js: OK (1392b)
+[8/36] base_tasofro/megamari.js: OK (589b)
+[8/36] base_tasofro/marilega.js: OK (373b)
+[16/36] script_latin/th155.v1.21b.js: OK (329b)
+[16/36] script_latin/th155.js: OK (681b)
+[16/36] base_tsa/global.js: OK (4422b)
+[16/36] base_tasofro/th135.js: OK (812b)
+[16/36] base_tasofro/th155.v1.21b.js: OK (385b)
+[16/36] base_tasofro/th155.js: OK (413b)
+[16/36] base_tasofro/th145.js: OK (655b)
+[16/36] base_tasofro/th123.v1.10a.js: OK (917b)
+[17/36] base_tsa/th08.v1.00d.js: OK (3743b)
+[18/36] base_tsa/th08.js: OK (5755b)
+[19/36] base_tsa/th07.js: OK (4312b)
+[20/38] base_tsa/th06.v1.02h.js: OK (5747b)
+[21/39] base_tsa/th07.v1.00b.js: OK (3313b)
+[22/39] base_tsa/th095.js: OK (2776b)
+[24/39] base_tsa/th09.v1.50a.js: OK (2705b)
+[24/39] base_tsa/th095.v1.02a.js: OK (2352b)
+[29/39] script_latin/th19.v1.10c.js: OK (71b)
+[29/39] base_tasofro/th175.js: OK (1217b)
+[29/39] base_tsa/th125.js: OK (3156b)
+[29/39] base_tasofro/versions.js: OK (5790b)
+[29/39] base_tasofro/th175.v1.01.js: OK (802b)
+[30/39] base_tsa/th15.v1.00b.js: OK (3259b)
+[31/39] base_tsa/th185.v1.00a.js: OK (4401b)
+[32/39] base_tsa/th185.js: OK (3097b)
+[36/39] base_tsa/th19.js: OK (1559b)
+[36/39] base_tsa/th19.v1.10c.js: OK (4951b)
+[36/39] base_tsa/th19.v1.00a.js: OK (5891b)
+[36/39] base_tsa/versions.js: OK (26473b)
+[37/39] lang_en/stringdefs.js: OK (33477b)
+[38/39] lang_en/themes.js: OK (38085b)
+[39/39] lang_en/th09.js: OK (21b)
+Stack update done.
+Updating patches with game-specific filter...
+Deleting base_tasofro/th155/data/actor/jyoon.v1.10.nut.map
+Deleting script_latin/th155/data/script/talk/talk.v1.10.nut.jdiff
+Deleting script_latin/th155/data/script/talk/talk.v1.10_steam.nut.jdiff
+Deleting script_latin/th155/data/script/talk/talk.v1.19_beta3.nut.jdiff
+Deleting script_latin/th155/data/system/select/script/animation_handle.v1.10.nut.jdiff
+Deleting script_latin/th155/data/system/select/script/animation_handle.v1.10_steam.nut.jdiff
+Deleting script_latin/th155/data/system/select/script/animation_handle.v1.19_beta3.nut.jdiff
+Deleting base_tasofro/th155/data/actor/jyoon.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/jyoon.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/actor/koishi.nut.map
+Deleting base_tasofro/th155/data/actor/mamizou.v1.10.nut.map
+Deleting base_tasofro/th155/data/actor/mamizou.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/mamizou.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/actor/miko.v1.10.nut.map
+Deleting base_tasofro/th155/data/actor/miko.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/miko.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/actor/mokou.v1.10.nut.map
+Deleting base_tasofro/th155/data/actor/mokou.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/mokou.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/actor/reimu.v1.10.nut.map
+Deleting base_tasofro/th155/data/actor/reimu.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/reimu.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/actor/sinmyoumaru.nut.map
+Deleting base_tasofro/th155/data/actor/tenshi.nut.map
+Deleting base_tasofro/th155/data/actor/udonge.nut.map
+Deleting base_tasofro/th155/data/actor/yukari.v1.10.nut.map
+Deleting base_tasofro/th155/data/actor/yukari.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/yukari.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/actor/yukari_boss.v1.10.nut.map
+Deleting base_tasofro/th155/data/actor/yukari_boss.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/actor/yukari_boss.v1.19_beta3.nut.map
+Deleting base_tasofro/th155/data/event/script/jyoon/ed.v1.10.pl
+Deleting base_tasofro/th155/data/event/script/jyoon/ed.v1.10_steam.pl
+Deleting base_tasofro/th155/data/event/script/jyoon/ed.v1.19_beta3.pl
+Deleting base_tasofro/th155/data/system/select/script/animation_handle.v1.10.nut.map
+Deleting base_tasofro/th155/data/system/select/script/animation_handle.v1.10_steam.nut.map
+Deleting base_tasofro/th155/data/system/select/script/animation_handle.v1.19_beta3.nut.map
+[2/15] base_tasofro/th155/data/actor/miko.v1.21b.nut.map: OK (58b)
+[2/15] base_tasofro/th155/data/actor/jyoon.v1.21b.nut.map: OK (126b)
+[3/15] script_latin/th155/data/system/select/script/animation_handle.v1.21b.nut.jdiff: OK (86b)
+[4/17] script_latin/th155/data/script/talk/talk.v1.21b.nut.jdiff: OK (29b)
+[6/17] base_tasofro/th155/data/actor/mamizou.v1.21b.nut.map: OK (61b)
+[6/17] base_tasofro/th155/data/actor/mokou.v1.21b.nut.map: OK (60b)
+[8/17] base_tasofro/th155/data/actor/koishi.v1.21b.nut.map: OK (61b)
+[8/17] base_tasofro/th155/data/actor/reimu.v1.21b.nut.map: OK (59b)
+[9/17] base_tasofro/th155/data/actor/tenshi.v1.21b.nut.map: OK (60b)
+[10/17] base_tasofro/th155/data/actor/yukari.v1.21b.nut.map: OK (60b)
+[11/17] base_tasofro/th155/data/actor/sinmyoumaru.v1.21b.nut.map: OK (65b)
+[12/17] base_tasofro/th155/data/actor/udonge.v1.21b.nut.map: OK (60b)
+[13/17] base_tasofro/th155/data/actor/yukari_boss.v1.21b.nut.map: OK (52b)
+[14/17] base_tasofro/th155/data/event/script/jyoon/ed.v1.21b.pl: OK (8352b)
+[15/17] lang_en/th155/data/event/script/udonge/stage1.pl.jdiff: OK (3434b)
+[16/17] lang_en/th155/data/event/script/udonge/stage4.pl.jdiff: OK (3777b)
+[17/17] base_tasofro/th155/data/system/select/script/animation_handle.v1.21b.nut.map: OK (123b)
+Stack update done.
+Starting I:\Github\AoCF-Starter-Pack\AoCF\thcrap\../th155/th155.exe with arguments (null)... done.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... main window closed. Exiting.
+Removing plug-ins...

@@ -1,0 +1,391 @@
+{
+    "_": "_",
+    "0": {
+        "_": "_",
+        "0": "15.5th Touhou Project"
+    },
+    "1": {
+        "_": "_",
+        "0": "東方憑依華 Touhou Hyouibana \nEastern Flowers of Possession ~ Antinomy of Common Flowers"
+    },
+    "4": {
+        "_": "_",
+        "0": "Scenario / Editing"
+    },
+    "5": {
+        "_": "_",
+        "0": "ZUN"
+    },
+    "8": {
+        "_": "_",
+        "0": "Supervision / Script"
+    },
+    "9": {
+        "_": "_",
+        "0": "Unabara Iruka"
+    },
+    "12": {
+        "_": "_",
+        "0": "Programming"
+    },
+    "13": {
+        "_": "_",
+        "0": "Nonotarou"
+    },
+    "16": {
+        "_": "_",
+        "0": "System"
+    },
+    "17": {
+        "_": "_",
+        "0": "spsp"
+    },
+    "20": {
+        "_": "_",
+        "0": "Illustration"
+    },
+    "21": {
+        "_": "_",
+        "0": "Moe Harukawa"
+    },
+    "24": {
+        "_": "_",
+        "0": "Character Graphics"
+    },
+    "25": {
+        "_": "_",
+        "0": "Iwashi"
+    },
+    "26": {
+        "_": "_",
+        "0": "HALT"
+    },
+    "27": {
+        "_": "_",
+        "0": "Migel Futoshi"
+    },
+    "28": {
+        "_": "_",
+        "0": "Takoyaki Neko"
+    },
+    "29": {
+        "_": "_",
+        "0": "Tonnorimaru/@tonnyoriclayer"
+    },
+    "30": {
+        "_": "_",
+        "0": "Rouyatsu"
+    },
+    "31": {
+        "_": "_",
+        "0": "Shirosu"
+    },
+    "32": {
+        "_": "_",
+        "0": "Chabo"
+    },
+    "33": {
+        "_": "_",
+        "0": "Specter"
+    },
+    "34": {
+        "_": "_",
+        "0": "Teto"
+    },
+    "35": {
+        "_": "_",
+        "0": "Onokei"
+    },
+    "38": {
+        "_": "_",
+        "0": "Effects"
+    },
+    "39": {
+        "_": "_",
+        "0": "Unabara Iruka"
+    },
+    "40": {
+        "_": "_",
+        "0": "Tonnorimaru/@tonnyoriclayer"
+    },
+    "43": {
+        "_": "_",
+        "0": "Effect Tools"
+    },
+    "44": {
+        "_": "_",
+        "0": "Naru (Edelweiß)"
+    },
+    "47": {
+        "_": "_",
+        "0": "Backgrounds"
+    },
+    "48": {
+        "_": "_",
+        "0": "Iwashi"
+    },
+    "49": {
+        "_": "_",
+        "0": "Etogami Kazuya"
+    },
+    "50": {
+        "_": "_",
+        "0": "Kudzu"
+    },
+    "53": {
+        "_": "_",
+        "0": "System Graphics"
+    },
+    "54": {
+        "_": "_",
+        "0": "Unabara Iruka"
+    },
+    "57": {
+        "_": "_",
+        "0": "Music"
+    },
+    "58": {
+        "_": "_",
+        "0": "U2 Akiyama"
+    },
+    "59": {
+        "_": "_",
+        "0": "ZUN"
+    },
+    "60": {
+        "_": "_",
+        "0": "Niimu (Guitar)"
+    },
+    "61": {
+        "_": "_",
+        "0": "JUN (Violin)"
+    },
+    "62": {
+        "_": "_",
+        "0": "Eriya Arai (Cello)"
+    },
+    "65": {
+        "_": "_",
+        "0": "Mastering"
+    },
+    "66": {
+        "_": "_",
+        "0": "oiko (SOUNDOT)"
+    },
+    "69": {
+        "_": "_",
+        "0": "Sound Effects"
+    },
+    "70": {
+        "_": "_",
+        "0": "NKZ"
+    },
+    "73": {
+        "_": "_",
+        "0": "Music Arrangers"
+    },
+    "76": {
+        "_": "_",
+        "0": "pizuya (Pizuya's Cell)"
+    },
+    "77": {
+        "_": "_",
+        "0": "Guitar: Tera (Girls Logic Observatory)"
+    },
+    "78": {
+        "_": "_",
+        "0": "Bass: pizuya"
+    },
+    "81": {
+        "_": "_",
+        "0": "Kou Ogata (k-waves LAB)"
+    },
+    "82": {
+        "_": "_",
+        "0": "Whistles & Concertina & Flat Mandolin　　"
+    },
+    "83": {
+        "_": "_",
+        "0": "& Irish Bouzouki: Kou Ogata"
+    },
+    "86": {
+        "_": "_",
+        "0": "ARM (IOSYS)"
+    },
+    "89": {
+        "_": "_",
+        "0": "Komso (Komsoya)"
+    },
+    "92": {
+        "_": "_",
+        "0": "Akai Ryuusei (Tokyo Active NEETs)"
+    },
+    "93": {
+        "_": "_",
+        "0": "Piano: Akai Ryuusei"
+    },
+    "94": {
+        "_": "_",
+        "0": "Bass: Aoi Setsunam"
+    },
+    "95": {
+        "_": "_",
+        "0": "Guitar: Murasaki Souchou"
+    },
+    "96": {
+        "_": "_",
+        "0": "Drums: Shabon"
+    },
+    "97": {
+        "_": "_",
+        "0": "Saxophone: Kaworu Yamaishimoto"
+    },
+    "98": {
+        "_": "_",
+        "0": "Trumpet: Hirokoman"
+    },
+    "101": {
+        "_": "_",
+        "0": "ELEMENTAS (A-One)"
+    },
+    "104": {
+        "_": "_",
+        "0": "Comp (BUTAOTOME)"
+    },
+    "105": {
+        "_": "_",
+        "0": "Guitar & Bass: Comp"
+    },
+    "106": {
+        "_": "_",
+        "0": "Piano: Paprika"
+    },
+    "109": {
+        "_": "_",
+        "0": "oiko (SOUNDOT)"
+    },
+    "112": {
+        "_": "_",
+        "0": "ShavaDava (Sound CYCLONE)"
+    },
+    "113": {
+        "_": "_",
+        "0": "Guitar: ShavaDava"
+    },
+    "114": {
+        "_": "_",
+        "0": "Bass: sou"
+    },
+    "115": {
+        "_": "_",
+        "0": "Piano: HearTribe"
+    },
+    "118": {
+        "_": "_",
+        "0": "NYO (Silver Forest)"
+    },
+    "119": {
+        "_": "_",
+        "0": "Guitar: NYO"
+    },
+    "122": {
+        "_": "_",
+        "0": "Tai no Kobone (Azure&Sands)"
+    },
+    "125": {
+        "_": "_",
+        "0": "Taka (CROW'SCLAW)"
+    },
+    "126": {
+        "_": "_",
+        "0": "Guitar & Bass: Taka"
+    },
+    "129": {
+        "_": "_",
+        "0": "Yuuyu (Yuya.)"
+    },
+    "132": {
+        "_": "_",
+        "0": "Kishida (Kishida Kyoudan)"
+    },
+    "133": {
+        "_": "_",
+        "0": "Guitar & Bass: Kishida"
+    },
+    "136": {
+        "_": "_",
+        "0": "Shuzou (Sekken'ya)"
+    },
+    "137": {
+        "_": "_",
+        "0": "Guitar & Bass: Shuzou"
+    },
+    "140": {
+        "_": "_",
+        "0": "Dobu Usagi (dBu music)"
+    },
+    "141": {
+        "_": "_",
+        "0": "Guitar: Wasamon"
+    },
+    "142": {
+        "_": "_",
+        "0": "Violin: JUN"
+    },
+    "145": {
+        "_": "_",
+        "0": "ziki_7 (SOUNDOT)"
+    },
+    "148": {
+        "_": "_",
+        "0": "Beat Mario (COOL&CREATE)"
+    },
+    "150": {
+        "_": "_",
+        "0": "English fan-translation"
+    },
+    "151": {
+        "_": "_",
+        "0": "Touhou Patch Center"
+    },
+    "153": {
+        "_": "_",
+        "0": "Special Thanks"
+    },
+    "154": {
+        "_": "_",
+        "0": "dada"
+    },
+    "155": {
+        "_": "_",
+        "0": "MOCHI Second"
+    },
+    "156": {
+        "_": "_",
+        "0": "Kamijii"
+    },
+    "157": {
+        "_": "_",
+        "0": "Saka"
+    },
+    "158": {
+        "_": "_",
+        "0": "ziki_7"
+    },
+    "159": {
+        "_": "_",
+        "0": "Takashi Mizushima (Nyahhoiya)"
+    },
+    "162": {
+        "_": "_",
+        "0": "Presented by"
+    },
+    "163": {
+        "_": "_",
+        "0": "Twilight Frontier"
+    },
+    "164": {
+        "_": "_",
+        "0": "Team Shanghai Alice"
+    }
+}

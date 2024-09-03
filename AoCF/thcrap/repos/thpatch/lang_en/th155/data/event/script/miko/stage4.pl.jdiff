@@ -1,0 +1,261 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Where is this?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "A concert stage. The Prismriver",
+            "orchestra will be playing",
+            "a show here after this."
+        ]
+    },
+    "3": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Is anyone going to show up here?"
+        ]
+    },
+    "4": {
+        "lines": [
+            "No, I'm the owner. I'm going to",
+            "give a speech before the audience."
+        ]
+    },
+    "5": {
+        "lines": [
+            "Huh? Owner? What?",
+            "No one ever mentioned this!"
+        ]
+    },
+    "6": {
+        "lines": [
+            "This sort of steady activity",
+            "is how you gather patrons."
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a15x2>",
+            "I can hardly wait for the concert."
+        ]
+    },
+    "8": {
+        "lines": [
+            "You... If I recall correctly,",
+            "you're the one they say rules",
+            "Gensokyo from the shadows."
+        ]
+    },
+    "9": {
+        "lines": [
+            "Oh my, you're investigating Perfect",
+            "Possession? Without anyone asking",
+            "you to? How conscientious of you."
+        ]
+    },
+    "10": {
+        "lines": [
+            "What are you here for? Surely",
+            "you're not here to see the concert."
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a11x3>",
+            "And paired up with your",
+            "business rival at that..."
+        ]
+    },
+    "12": {
+        "lines": [
+            "But I can see that it will all end",
+            "with you two fighting each other, with",
+            "a very unfortunate outcome at that."
+        ]
+    },
+    "13": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Answer the question.",
+            "What are you here for?"
+        ]
+    },
+    "14": {
+        "lines": [
+            "Hey, do you think the two of you",
+            "could leave the rest of",
+            "the investigation to me?"
+        ]
+    },
+    "15": {
+        "lines": [
+            "Are you trying to say that because",
+            "we arrived here later, we have",
+            "to turn over what we know?!"
+        ]
+    },
+    "16": {
+        "lines": [
+            "Ridiculous! Foolish! I have no words!",
+            "I am truly disappointed in you,",
+            "from the bottom of my heart!"
+        ]
+    },
+    "17": {
+        "lines": [
+            "It's two against one, no need to hold",
+            "back! Come at us with everything!"
+        ]
+    },
+    "18": {
+        "lines": [
+            "Now, will you tell me what you",
+            "learned in your investigation?",
+            "I don't like to lose when I'm serious."
+        ]
+    },
+    "19": {
+        "lines": [
+            "You weren't even serious, were you?",
+            "I've lost interest."
+        ]
+    },
+    "20": {
+        "lines": [
+            "That was enough.",
+            "I could tell what you've learned",
+            "from how you fought."
+        ]
+    },
+    "21": {
+        "lines": [
+            "Now, I should tell you",
+            "what I know too."
+        ]
+    },
+    "22": {
+        "lines": [
+            "<balloon$a11x2>",
+            "You have information?"
+        ]
+    },
+    "23": {
+        "lines": [
+            "I already know who the culprit behind",
+            "the Perfect Possession Incident is."
+        ]
+    },
+    "24": {
+        "lines": [
+            "<balloon$a11x2>",
+            "What did you say?!"
+        ]
+    },
+    "25": {
+        "lines": [
+            "<balloon$a11x3>",
+            "But you see, I don't know",
+            "how to defeat them."
+        ]
+    },
+    "26": {
+        "lines": [
+            "That's why I wanted information.",
+            "I'm telling the truth."
+        ]
+    },
+    "27": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Who would believe that?"
+        ]
+    },
+    "28": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Couldn't you very well be",
+            "the mastermind yourself?!"
+        ]
+    },
+    "29": {
+        "lines": [
+            "...The information we obtained",
+            "that wasn't in the rumors is that:"
+        ]
+    },
+    "30": {
+        "lines": [
+            "When the Perfect Possession is",
+            "consensual, the master has",
+            "the power to dismiss it."
+        ]
+    },
+    "31": {
+        "lines": [
+            "But when the Perfect Possession",
+            "is compulsory, the slave does."
+        ]
+    },
+    "32": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Hey!"
+        ]
+    },
+    "33": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I've seen many humans",
+            "confess their worries."
+        ]
+    },
+    "34": {
+        "lines": [
+            "<balloon$a11x3>",
+            "If she's lying,",
+            "I'll know right away."
+        ]
+    },
+    "35": {
+        "lines": [
+            "She's not telling the whole truth,",
+            "but the part about knowing",
+            "the culprit isn't a lie."
+        ]
+    },
+    "36": {
+        "lines": [
+            "She's implied that if we give",
+            "her our information,",
+            "she'll tell us who it is."
+        ]
+    },
+    "37": {
+        "lines": [
+            "Or that's the impression I've gotten, so",
+            "wouldn't it be faster to just tell her?"
+        ]
+    },
+    "38": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Heh heh heh."
+        ]
+    },
+    "39": {
+        "lines": [
+            "It appears the monk is",
+            "the more worldly of the two."
+        ]
+    },
+    "40": {
+        "lines": [
+            "That truly was good data you've",
+            "given me. So I'll be giving you",
+            "my best information as well."
+        ]
+    }
+}

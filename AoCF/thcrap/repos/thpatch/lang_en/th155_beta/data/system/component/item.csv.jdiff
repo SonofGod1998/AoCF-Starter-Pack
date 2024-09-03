@@ -1,0 +1,53 @@
+{
+    "2": {
+        "1": "Disconnected from opponent"
+    },
+    "3": {
+        "1": "Please enter player name"
+    },
+    "4": {
+        "1": "Target is currently in match"
+    },
+    "5": {
+        "1": "Version conflict with target"
+    },
+    "6": {
+        "1": "Spectating not allowed"
+    },
+    "7": {
+        "1": "Match has not started yet"
+    },
+    "8": {
+        "1": "No change"
+    },
+    "9": {
+        "1": "Delete file?"
+    },
+    "10": {
+        "1": "No file"
+    },
+    "11": {
+        "1": "Loading..."
+    },
+    "12": {
+        "1": "Invalid file"
+    },
+    "13": {
+        "1": "Waiting for match..."
+    },
+    "14": {
+        "1": "Yes"
+    },
+    "15": {
+        "1": "No"
+    },
+    "18": {
+        "1": "Random Select"
+    },
+    "17": {
+        "1": "Save replay?"
+    },
+    "16": {
+        "1": "Continue?"
+    }
+}

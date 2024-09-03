@@ -1,0 +1,164 @@
+{
+    "1": {
+        "lines": [
+            "Time's up. It's time to",
+            "return to the Dream World."
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Whaat? But I still wanna go wild!"
+        ]
+    },
+    "3": {
+        "lines": [
+            "While it is important to let your feelings",
+            "out in reality to avoid going berserk,"
+        ]
+    },
+    "4": {
+        "lines": [
+            "if you remain in the real world for",
+            "too long, balance will be lost."
+        ]
+    },
+    "5": {
+        "lines": [
+            "Can I have just one more fight then?",
+            "Who knows when I'll get another chance."
+        ]
+    },
+    "6": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Hmm... It's still dangerous, but..."
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Looking at you, you still",
+            "seem to be suffering, so..."
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Very well. This next",
+            "fight will be the last."
+        ]
+    },
+    "9": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Alright! Thanks for",
+            "being so understanding!"
+        ]
+    },
+    "10": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Found ya.",
+            "<balloon$a11x3>",
+            "So you're the weird",
+            "Reisen from the rumors."
+        ]
+    },
+    "11": {
+        "lines": [
+            "Perfect timing! My last",
+            "opponent will be you, immortal!"
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$b11x2>",
+            "C'mon, let's fight!"
+        ]
+    },
+    "13": {
+        "lines": [
+            "Wow, that makes me so happy.",
+            "I can't believe cute little Reisen",
+            "is challenging me to a fight."
+        ]
+    },
+    "14": {
+        "lines": [
+            "Hee hee hee, I've had problems",
+            "with you for a long time now!"
+        ]
+    },
+    "15": {
+        "lines": [
+            "No way I'm gonna let",
+            "a disturbance like you stick",
+            "around in the bamboo thicket!"
+        ]
+    },
+    "16": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Come to think of it,",
+            "<balloon$a15x3>",
+            "that time I switched with Reimu and",
+            "fought you was the beginning of",
+            "the Perfect Possession Incident, right?"
+        ]
+    },
+    "17": {
+        "lines": [
+            "You've grown so much since then",
+            "that I barely recognize you."
+        ]
+    },
+    "18": {
+        "lines": [
+            "<balloon$a15x3>",
+            "Since then, I've mastered using",
+            "perfect possession and gotten",
+            "many times stronger.",
+            "<balloon$a11x2>",
+            "But how about you?"
+        ]
+    },
+    "19": {
+        "lines": [
+            "If your power and righteousness",
+            "aren't all talk, then show me!"
+        ]
+    },
+    "20": {
+        "lines": [
+            "<balloon$a11x2>",
+            "So it was all talk, then."
+        ]
+    },
+    "21": {
+        "lines": [
+            "<balloon$a08x3>",
+            "I see. You're not",
+            "just a bragger."
+        ]
+    },
+    "22": {
+        "lines": [
+            "There's no time left! Come at",
+            "me with everything you've got!"
+        ]
+    },
+    "23": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Since you asked! I'll",
+            "perish you in one-shot!"
+        ]
+    },
+    "24": {
+        "lines": [
+            "My flame of life! Burn",
+            "to the ends of the earth!"
+        ]
+    }
+}

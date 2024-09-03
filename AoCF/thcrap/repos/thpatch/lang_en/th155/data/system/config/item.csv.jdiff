@@ -1,0 +1,54 @@
+{
+    "0": {
+        "1": "Back"
+    },
+    "1": {
+        "1": "SE Volume"
+    },
+    "2": {
+        "1": "BGM Volume"
+    },
+    "3": {
+        "1": "Screen Resolution",
+        "3": "Windowed",
+        "5": "Full screen"
+    },
+    "4": {
+        "1": "V-Sync",
+        "3": "Off",
+        "5": "On"
+    },
+    "7": {
+        "1": "1P Key Config"
+    },
+    "5": {
+        "1": "Background",
+        "3": "Normal",
+        "5": "Simple"
+    },
+    "6": {
+        "1": "FPS Display",
+        "3": "Off",
+        "5": "On"
+    },
+    "8": {
+        "1": "2P Key Config"
+    },
+    "9": {
+        "1": "Save Replay",
+        "3": "Yes",
+        "5": "No",
+        "7": "Choose"
+    },
+    "_": "_",
+    "10": {
+        "1": "Save Replay (Online)",
+        "3": "Yes",
+        "5": "No"
+    },
+    "11": {
+        "1": "Subtitle mode",
+        "3": "Off",
+        "5": "On"
+    }
+}

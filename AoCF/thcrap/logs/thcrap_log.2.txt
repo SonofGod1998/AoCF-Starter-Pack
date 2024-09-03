@@ -1,0 +1,914 @@
+――――――――――――――――――――――――――――――――――――――――――――――――――
+Touhou Community Reliant Automatic Patcher logfile
+Branch: stable
+Version: 2023-05-08
+Current time: Sep 2 2024 1:36:35
+Build time: May  8 2023 22:39:14
+Built by: brliron
+Command line: "I:\Github\AoCF-Starter-Pack\AoCF\thcrap\bin\thcrap_loader.exe" "en.js" th155
+
+System Information:
+CPU: AMD Ryzen 5 5600G with Radeon Graphics         
+RAM: 16.38GiB free out of 31.8GiB, 48% used
+OS/Runtime: Windows 11, Build 22631
+Code pages: ANSI=932, OEM=932
+
+Screens:
+Generic PnP Monitor on AMD Radeon RX 7900 XTX: 2560x1440@32 60Hz
+Generic PnP Monitor on AMD Radeon RX 7900 XTX: 1920x1080@32 240Hz
+Generic PnP Monitor on AMD Radeon RX 7900 XTX: 3840x2160@32 60Hz
+――――――――――――――――――――――――――――――――――――――――――――――――――
+
+[update] Running update 0...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'thcrap.dll' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 0 done.
+[update] Running update 1...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'config' exists.
+[update] Detect test - checking if 'logs' exists.
+[update] Detect test - checking if 'repos' exists.
+[update] Detect test - checking if 'version-resolve-installed.dat' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 1 done.
+[update] Running update 2...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'thcrap_configure.exe' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 2 done.
+Parsing command line...
+Loading run configuration I:\Github\AoCF-Starter-Pack\AoCF\thcrap\config\en.js... found
+Using exe I:\Github\AoCF-Starter-Pack\AoCF\thcrap\../th155/th155.exe
+Command-line parsing finished
+Updates are enabled. Initializing update UI
+(JSON) Resolving versions.js... 
+ + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tsa/versions.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/versions.js
+Hashing executable... → th155 v1.10 (original) (codepage 0)
+(JSON) Resolving configuration for th155.js... 
+ + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tsa/global.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/global.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/th155.js
+  + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/base_tasofro/th155.v1.10.js
+   + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/script_latin/global.js
+   + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/script_latin/th155.js
+   + I:/Github/AoCF-Starter-Pack/AoCF/thcrap/repos/nmlgc/script_latin/th155.v1.10.js
+Creating UI thread and main window... done.
+Looking for thcrap updates...
+Checking for engine updates...
+Update: using libcurl backend
+Retrieving public key from the signer certificate of I:\Github\AoCF-Starter-Pack\AoCF\thcrap\bin\thcrap_update.dll... OK
+Verifying archive signature... valid
+(Zip) Preparing thcrap_new_2eac56adb21249ea563d4503.zip...
+Replacing engine...
+---------------------------
+The Touhou Community Reliant Automatic Patcher has been successfully updated to version 2024-08-18.
+
+For further information about this new release, visit
+
+	https://www.thpatch.net/wiki/Touhou_Patch_Center:Download
+---------------------------
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5E280 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E280 EBP: 0x04D5E2D8 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[21] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[20] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[19] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[18] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[17] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[16] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[15] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[14] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[13] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[12] 0x70648ABD (RxB8ABD) (\UIAutomationCore.DLL)
+[11] 0x7064AACF (RxBAACF) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A98E (RxBA98E) (\UIAutomationCore.DLL)
+[07] 0x706156CA (Rx856CA) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5C850 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C850 EBP: 0x04D5C8AC ESI: 0x04D5CA48 EDI: 0x00000000
+
+Stack trace:
+[21] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[20] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[19] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[18] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[17] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[16] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[15] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[14] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[13] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[12] 0x70648A93 (RxB8A93) (\UIAutomationCore.DLL)
+[11] 0x7064AACF (RxBAACF) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A98E (RxBA98E) (\UIAutomationCore.DLL)
+[07] 0x706156CA (Rx856CA) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E430 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E430 EBP: 0x04D5E488 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[15] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[14] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[13] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[12] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[11] 0x7064ABCB (RxBABCB) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A98E (RxBA98E) (\UIAutomationCore.DLL)
+[07] 0x706156CA (Rx856CA) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5CA00 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5CA00 EBP: 0x04D5CA5C ESI: 0x04D5CBF8 EDI: 0x00000000
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[15] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[14] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[13] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[12] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[11] 0x7064AB9D (RxBAB9D) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A98E (RxBA98E) (\UIAutomationCore.DLL)
+[07] 0x706156CA (Rx856CA) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5E468 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E468 EBP: 0x04D5E4C0 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[19] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[18] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[17] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[16] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[15] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[14] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[13] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[12] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[11] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[10] 0x7064A92D (RxBA92D) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A98E (RxBA98E) (\UIAutomationCore.DLL)
+[07] 0x706156CA (Rx856CA) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5CA38 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5CA38 EBP: 0x04D5CA94 ESI: 0x04D5CC30 EDI: 0x00000000
+
+Stack trace:
+[19] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[18] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[17] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[16] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[15] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[14] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[13] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[12] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[11] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[10] 0x7064A8FB (RxBA8FB) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A98E (RxBA98E) (\UIAutomationCore.DLL)
+[07] 0x706156CA (Rx856CA) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E3C0 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E3C0 EBP: 0x04D5E418 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[22] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[21] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[20] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[19] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[18] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[17] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[16] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[15] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[14] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[13] 0x7067187E (RxE187E) (\UIAutomationCore.DLL)
+[12] 0x70647CC1 (RxB7CC1) (\UIAutomationCore.DLL)
+[11] 0x70616A34 (Rx86A34) (\UIAutomationCore.DLL)
+[10] 0x7064A51F (RxBA51F) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5C990 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C990 EBP: 0x04D5C9EC ESI: 0x04D5CB88 EDI: 0x00000000
+
+Stack trace:
+[22] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[21] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[20] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[19] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[18] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[17] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[16] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[15] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[14] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[13] 0x7067184D (RxE184D) (\UIAutomationCore.DLL)
+[12] 0x70647CC1 (RxB7CC1) (\UIAutomationCore.DLL)
+[11] 0x70616A34 (Rx86A34) (\UIAutomationCore.DLL)
+[10] 0x7064A51F (RxBA51F) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+Update found! Re-running "I:\Github\AoCF-Starter-Pack\AoCF\thcrap\bin\thcrap_loader.exe" "en.js" th155
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E418 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E418 EBP: 0x04D5E470 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[15] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[14] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[13] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[12] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[11] 0x70616A86 (Rx86A86) (\UIAutomationCore.DLL)
+[10] 0x7064A51F (RxBA51F) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5C9E8 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C9E8 EBP: 0x04D5CA44 ESI: 0x04D5CBE0 EDI: 0x00000000
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[15] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[14] 0x70641E53 (RxB1E53) (\UIAutomationCore.DLL)
+[13] 0x70641DCA (RxB1DCA) (\UIAutomationCore.DLL)
+[12] 0x70757BF4 (Rx1C7BF4) (\UIAutomationCore.DLL)
+[11] 0x70616A70 (Rx86A70) (\UIAutomationCore.DLL)
+[10] 0x7064A51F (RxBA51F) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E260 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E260 EBP: 0x04D5E2B8 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[21] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[20] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[19] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[18] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[17] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[16] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[15] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[14] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[13] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[12] 0x70648ABD (RxB8ABD) (\UIAutomationCore.DLL)
+[11] 0x7064AACF (RxBAACF) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5C830 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C830 EBP: 0x04D5C88C ESI: 0x04D5CA28 EDI: 0x00000000
+
+Stack trace:
+[21] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[20] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[19] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[18] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[17] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[16] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[15] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[14] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[13] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[12] 0x70648A93 (RxB8A93) (\UIAutomationCore.DLL)
+[11] 0x7064AACF (RxBAACF) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5E410 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E410 EBP: 0x04D5E468 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[15] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[14] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[13] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[12] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[11] 0x7064ABCB (RxBABCB) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5C9E0 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C9E0 EBP: 0x04D5CA3C ESI: 0x04D5CBD8 EDI: 0x00000000
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[15] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[14] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[13] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[12] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[11] 0x7064AB9D (RxBAB9D) (\UIAutomationCore.DLL)
+[10] 0x7064A555 (RxBA555) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E448 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E448 EBP: 0x04D5E4A0 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[19] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[18] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[17] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[16] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[15] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[14] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[13] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[12] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[11] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[10] 0x7064A92D (RxBA92D) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5CA18 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5CA18 EBP: 0x04D5CA74 ESI: 0x04D5CC10 EDI: 0x00000000
+
+Stack trace:
+[19] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[18] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[17] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[16] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[15] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[14] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[13] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[12] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[11] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[10] 0x7064A8FB (RxBA8FB) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E3A0 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E3A0 EBP: 0x04D5E3F8 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[21] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[20] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[19] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[18] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[17] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[16] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[15] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[14] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[13] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[12] 0x7067187E (RxE187E) (\UIAutomationCore.DLL)
+[11] 0x70649584 (RxB9584) (\UIAutomationCore.DLL)
+[10] 0x7064A616 (RxBA616) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5C970 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C970 EBP: 0x04D5C9CC ESI: 0x04D5CB68 EDI: 0x00000000
+
+Stack trace:
+[21] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[20] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[19] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[18] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[17] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[16] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[15] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[14] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[13] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[12] 0x7067184D (RxE184D) (\UIAutomationCore.DLL)
+[11] 0x70649584 (RxB9584) (\UIAutomationCore.DLL)
+[10] 0x7064A616 (RxBA616) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5E3E0 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E3E0 EBP: 0x04D5E438 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[15] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[14] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[13] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[12] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[11] 0x706495AA (RxB95AA) (\UIAutomationCore.DLL)
+[10] 0x7064A616 (RxBA616) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000212
+EAX: 0x04D5C9B0 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5C9B0 EBP: 0x04D5CA0C ESI: 0x04D5CBA8 EDI: 0x00000000
+
+Stack trace:
+[19] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[18] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[17] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[16] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[15] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[14] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[13] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[12] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[11] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[10] 0x7064A8FB (RxBA8FB) (\UIAutomationCore.DLL)
+[09] 0x7064A3A5 (RxBA3A5) (\UIAutomationCore.DLL)
+[08] 0x7064A2BB (RxBA2BB) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E460 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E460 EBP: 0x04D5E4B8 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[15] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[14] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[13] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[12] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[11] 0x7067187E (RxE187E) (\UIAutomationCore.DLL)
+[10] 0x70647CC1 (RxB7CC1) (\UIAutomationCore.DLL)
+[09] 0x70616A34 (Rx86A34) (\UIAutomationCore.DLL)
+[08] 0x7064A32F (RxBA32F) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5CA30 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5CA30 EBP: 0x04D5CA8C ESI: 0x04D5CC28 EDI: 0x00000000
+
+Stack trace:
+[20] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[19] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[18] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[17] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[16] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[15] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[14] 0x7063F805 (RxAF805) (\UIAutomationCore.DLL)
+[13] 0x7063F77C (RxAF77C) (\UIAutomationCore.DLL)
+[12] 0x705F5DEC (Rx65DEC) (\UIAutomationCore.DLL)
+[11] 0x7067184D (RxE184D) (\UIAutomationCore.DLL)
+[10] 0x70647CC1 (RxB7CC1) (\UIAutomationCore.DLL)
+[09] 0x70616A34 (Rx86A34) (\UIAutomationCore.DLL)
+[08] 0x7064A32F (RxBA32F) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+C++ EH type: .?AVResultException@wil@@
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5E4B8 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5E4B8 EBP: 0x04D5E510 ESI: 0x00000000 EDI: 0x7083072C
+
+Stack trace:
+[18] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[17] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[16] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[15] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[14] 0x705F4C3D (Rx64C3D) (\UIAutomationCore.DLL)
+[13] 0x705F4BF5 (Rx64BF5) (\UIAutomationCore.DLL)
+[12] 0x7063F732 (RxAF732) (\UIAutomationCore.DLL)
+[11] 0x7063FACB (RxAFACB) (\UIAutomationCore.DLL)
+[10] 0x705F5DB2 (Rx65DB2) (\UIAutomationCore.DLL)
+[09] 0x70616A86 (Rx86A86) (\UIAutomationCore.DLL)
+[08] 0x7064A32F (RxBA32F) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+
+===
+Exception E06D7363 at 0x7638A942 (Rx14A942) (\KERNELBASE.dll)
+
+Description:
+No error description available.
+
+Registers:
+EIP: 0x7638A942 EFLAGS: 0x00000216
+EAX: 0x04D5CA88 ECX: 0x00000003 EDX: 0x00000000 EBX: 0x19930520
+ESP: 0x04D5CA88 EBP: 0x04D5CAE4 ESI: 0x04D5CC80 EDI: 0x00000000
+
+Stack trace:
+[18] 0x77B50A8F (Rx70A8F) (\ntdll.dll)
+[17] 0x77B4D057 (Rx6D057) (\ntdll.dll)
+[16] 0x77B591E6 (Rx791E6) (\ntdll.dll)
+[15] 0x776DC3D8 (Rx5C3D8) (\ucrtbase.dll)
+[14] 0x70640CFC (RxB0CFC) (\UIAutomationCore.DLL)
+[13] 0x70640989 (RxB0989) (\UIAutomationCore.DLL)
+[12] 0x70641E53 (RxB1E53) (\UIAutomationCore.DLL)
+[11] 0x70641DCA (RxB1DCA) (\UIAutomationCore.DLL)
+[10] 0x70757BF4 (Rx1C7BF4) (\UIAutomationCore.DLL)
+[09] 0x70616A70 (Rx86A70) (\UIAutomationCore.DLL)
+[08] 0x7064A32F (RxBA32F) (\UIAutomationCore.DLL)
+[07] 0x70615704 (Rx85704) (\UIAutomationCore.DLL)
+[06] 0x70615473 (Rx85473) (\UIAutomationCore.DLL)
+[05] 0x70614E1F (Rx84E1F) (\UIAutomationCore.DLL)
+[04] 0x706183FD (Rx883FD) (\UIAutomationCore.DLL)
+[03] 0x76B87BA9 (Rx17BA9) (\KERNEL32.DLL)
+[02] 0x77B4C10B (Rx6C10B) (\ntdll.dll)
+[01] 0x77B4C08F (Rx6C08F) (\ntdll.dll)
+===
+
+Removing plug-ins...

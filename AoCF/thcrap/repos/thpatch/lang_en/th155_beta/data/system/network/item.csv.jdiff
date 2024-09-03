@@ -1,0 +1,70 @@
+{
+    "5": {
+        "1": "Spectate"
+    },
+    "4": {
+        "1": "Join Server"
+    },
+    "2": {
+        "1": "Choose Lobby"
+    },
+    "3": {
+        "1": "Host Server"
+    },
+    "9": {
+        "1": "Allow Spectate Battle",
+        "3": "Yes",
+        "5": "No"
+    },
+    "8": {
+        "1": "Use UPnP",
+        "3": "Yes",
+        "5": "No"
+    },
+    "7": {
+        "1": "Port Number to use"
+    },
+    "6": {
+        "1": "Player name"
+    },
+    "10": {
+        "1": "Back"
+    },
+    "11": {
+        "1": "Lobby Status",
+        "3": "Offline",
+        "5": "Initializing",
+        "7": "Online"
+    },
+    "12": {
+        "1": "UPnP Status",
+        "3": "Wrong Usage",
+        "5": "Preparing",
+        "7": "Ready"
+    },
+    "13": {
+        "1": "Enter Address and Port Number"
+    },
+    "14": {
+        "1": "Enter Port Number"
+    },
+    "15": {
+        "1": "Waiting for opponent"
+    },
+    "17": {
+        "1": "Connecting to opponent"
+    },
+    "16": {
+        "1": "Searching for opponent"
+    },
+    "18": {
+        "1": "Connecting to spectate"
+    },
+    "_": "_",
+    "0": {
+        "1": "Host Server in the Lobby"
+    },
+    "1": {
+        "1": "Join Server in the Lobby"
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a15x2>",
+            "The worst, most disastrous pair, is it?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$a15x3>",
+            "Ever since your identities came to",
+            "light, it's no exaggeration to say",
+            "you're Gensokyo's most hated people.",
+            "<balloon$a08x2>",
+            "You're so popular."
+        ]
+    },
+    "3": {
+        "lines": [
+            "Yeah yeah, we're fine, thanks for",
+            "asking. It's always been tough for",
+            "us, so we're used to being hated."
+        ]
+    },
+    "4": {
+        "lines": [
+            "This was Yukari's order, correct?",
+            "That's why you're here?"
+        ]
+    },
+    "5": {
+        "lines": [
+            "Yeah, she told us that there were",
+            "dream people all over Gensokyo."
+        ]
+    },
+    "6": {
+        "lines": [
+            "Said she'd let us off the hook",
+            "for the Perfect Possession Incident",
+            "if we caught them all."
+        ]
+    },
+    "7": {
+        "lines": [
+            "You're being deceived."
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a15x3>",
+            "She may put on airs of being",
+            "a big-shot, but deep inside",
+            "she's nothing but a coward.",
+            "<balloon$a11x3>",
+            "That calm face she",
+            "puts on is just a mask."
+        ]
+    },
+    "9": {
+        "lines": [
+            "<balloon$a15x3>",
+            "She'd never leave a disruptive",
+            "element alone, but she's too",
+            "scared to take action herself.",
+            "<balloon$a15x2>",
+            "That's the sort of person she is."
+        ]
+    },
+    "10": {
+        "lines": [
+            "<balloon$a11x3>",
+            "She didn't want to fight",
+            "the dream people."
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a15x2>",
+            "She didn't want to fight you two either."
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Didn't she only ask you to",
+            "do this hoping you'd both",
+            "destroy each other?"
+        ]
+    },
+    "13": {
+        "lines": [
+            "That...",
+            "That does make sense."
+        ]
+    },
+    "14": {
+        "lines": [
+            "So, with that in mind, I'd like",
+            "to discuss something."
+        ]
+    },
+    "15": {
+        "lines": [
+            "Won't you ally with the dream",
+            "dwellers and rule Gensokyo together?"
+        ]
+    },
+    "16": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Ally?!"
+        ]
+    },
+    "17": {
+        "lines": [
+            "<balloon$a15x3>",
+            "As long as the Perfect Possession",
+            "Incident continues, you two can",
+            "become more powerful.",
+            "<balloon$a15x2>",
+            "Isn't it such a waste to let it end?"
+        ]
+    },
+    "18": {
+        "lines": [
+            "Join us, and the dream dwellers",
+            "will do everything in our power",
+            "to keep it going."
+        ]
+    },
+    "19": {
+        "lines": [
+            "Don't be fooled! She's just",
+            "saying this because she wants",
+            "to come out into the real world!"
+        ]
+    },
+    "20": {
+        "lines": [
+            "Don't listen to this",
+            "dream dwellers's sweet words!"
+        ]
+    },
+    "21": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I don't need you",
+            "to tell me that, Shion!",
+            "But..."
+        ]
+    },
+    "22": {
+        "lines": [
+            "<balloon$a15x3>",
+            "As long as the perfect possessions",
+            "continue, you two will",
+            "undoubtedly be the strongest.",
+            "<balloon$a08x2>",
+            "Why hesitate?"
+        ]
+    },
+    "23": {
+        "lines": [
+            "True, perfect possession was",
+            "pretty much made for us, but..."
+        ]
+    },
+    "24": {
+        "lines": [
+            "<balloon$a15x2>",
+            "No! I'm not that person anymore!"
+        ]
+    },
+    "25": {
+        "lines": [
+            "I threw away the life that dresses up",
+            "in other people's money! I want to",
+            "live an emotionally fulfilling life!"
+        ]
+    },
+    "26": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Ehh? What happened to you, Joon?"
+        ]
+    },
+    "27": {
+        "lines": [
+            "I mean, I still want to dress",
+            "up nice, even if I have to",
+            "use other people's money..."
+        ]
+    },
+    "28": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Shut up, Shion."
+        ]
+    },
+    "29": {
+        "lines": [
+            "Things like money and gems",
+            "didn't bring me happiness."
+        ]
+    },
+    "30": {
+        "lines": [
+            "I've said farewell to the past me,",
+            "in order to find true happiness!"
+        ]
+    },
+    "31": {
+        "lines": [
+            "You're the one trying to trick me,",
+            "you dream bastard!"
+        ]
+    },
+    "32": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Tsk!"
+        ]
+    },
+    "33": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I'd heard they were making",
+            "you train at the temple,",
+            "but this was their goal?"
+        ]
+    },
+    "34": {
+        "lines": [
+            "Then I don't need you!",
+            "I'll banish you from Gensokyo forever!"
+        ]
+    },
+    "35": {
+        "lines": [
+            "<balloon$a11x3>",
+            "The day when dreams",
+            "rule Gensokyo approaches."
+        ]
+    },
+    "36": {
+        "lines": [
+            "<balloon$b11x2>",
+            "We won!",
+            "Got the dream person!"
+        ]
+    },
+    "37": {
+        "lines": [
+            "Hey, Joon? Did you really",
+            "mean what you said just now?"
+        ]
+    },
+    "38": {
+        "lines": [
+            "Who knows? Maybe it's 'cause",
+            "of that training at the temple?"
+        ]
+    },
+    "39": {
+        "lines": [
+            "It just feels like money and gems",
+            "glitter less than they used to."
+        ]
+    },
+    "40": {
+        "lines": [
+            "Do you two intend to capture",
+            "every last dream dweller?"
+        ]
+    },
+    "41": {
+        "lines": [
+            "That's the plan. Well, it was the plan.",
+            "We're already done, I guess?"
+        ]
+    },
+    "42": {
+        "lines": [
+            "We heard from Yukari that",
+            "you might be the last one."
+        ]
+    },
+    "43": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Finally free of this penance!"
+        ]
+    },
+    "44": {
+        "lines": [
+            "<balloon$a08x2>",
+            "I'm the last one?"
+        ]
+    },
+    "45": {
+        "lines": [
+            "That's not true.",
+            "The worst, most disastrous hooligan",
+            "of the dream world remains."
+        ]
+    },
+    "46": {
+        "lines": [
+            "<balloon$a11x2>",
+            "Worst, most disastrous?"
+        ]
+    },
+    "47": {
+        "lines": [
+            "Hearing someone else called that",
+            "doesn't sit well with me at all."
+        ]
+    },
+    "48": {
+        "lines": [
+            "Would you like to meet this worst,",
+            "most disastrous dream dweller?"
+        ]
+    },
+    "49": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Of course!"
+        ]
+    },
+    "51": {
+        "lines": [
+            "What nerve!"
+        ]
+    },
+    "52": {
+        "lines": [
+            "I like it! Now I understand why",
+            "the real me accepted you two."
+        ]
+    },
+    "53": {
+        "lines": [
+            "<balloon$a11x3>",
+            "So where is this worst,",
+            "most disastrous person?"
+        ]
+    },
+    "54": {
+        "lines": [
+            "<balloon$a08x2>",
+            "In space!",
+            "<balloon$a15x3>",
+            "If you want to catch her, then fly!",
+            "To the limitless heights of the sky!"
+        ]
+    },
+    "50": {
+        "lines": [
+            "<balloon$a15x3>",
+            "If there's anything in this",
+            "world that could scare me,",
+            "I'd love to see it!"
+        ]
+    }
+}

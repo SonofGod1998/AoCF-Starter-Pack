@@ -1,0 +1,44 @@
+Notes before you start:
+ 
+- You only need to port forward if you want to HOST matches. You are free to ask for other people to host or join other people's hosts without needing to port forward.
+- Please read this entire guide carefully and follow each step exactly. Don't skip or skim over anything.
+- You may need physical access to the router, if the router isn't yours this may not be possible.
+- If you have more than one router this guide will not be sufficient and you should probably ask for more help.
+- AoCF only supports hosting on IPv4 addresses. If you only have an IPv6 address you will be unable to host by this method. (Thankfully this is rarely the case.)
+ 
+If you get stuck or can't figure out how to complete a step, don't be afraid to ask in the discord or ping me (fishshapedfish#5326)
+ 
+How to Port Forward AoCF:
+ 
+Step 1: Open up Command Prompt. (Press Win+R, type cmd, press enter.)
+Step 2: Type in ipconfig and press enter.
+Step 3: Find your network adapter which you use to connect to the internet. This is typically under "Wireless LAN adapter Wi-Fi" or "Ethernet adapter Ethernet".
+Step 4: Take note of the "IPv4 Address" and "Default Gateway" IP addresses.
+Step 5: Type the "Default Gateway" IP into the address bar of your browser and press enter.
+ 
+The following steps are dependent on your router but here's a general outline:
+ 
+Step 6: Login to the router, the default login details can usually be found written on the back of the router or through some googling if you know the model.
+Step 7: Go to the section called "Port Forwarding", "Virtual Server" or something similar. This is usually found under "NAT", "Network" or "Network Settings". (It may be under advanced settings).
+Step 8: Create and enable new rule which forwards ports from range 10800 to 10800 for UDP (or UDP and TCP) for the noted "IPv4 Address" from before. (You may have to create a new service to do this name it "aocf" or something).
+ 
+Port forwarding complete! Time to test if it worked:
+ 
+Step 9: Open the game and go into NETWORK and choose "wait incomming" (the third option down) with the default settings. It should now say "waiting...".
+Step 10: Type "what is my ip" into google and copy this IP.
+Step 11: Paste your IP followed by :10800 into #netplay/netplay-beginner (or sent it to your friend). For example: 1.1.1.1:10800
+ 
+If this worked correctly you should now have an IP in #netplay for people to connect to. You can always ping the local region role to try to get other players attention (that's what the roles are for don't be scared).
+ 
+You followed the above but people cannot connect:
+Check 1: Make sure you actually hosting in the game, it should say "waiting..."
+Check 2: Make sure you sent the correct IP, it may have changed. It can be found by typing "what is my ip" into google.
+Check 3: Windows firewall may be blocking connections. You can temporarily disable it to test this but a more long term and secure way to fix this is as follows:
+    Open "Windows Firewall with Advanced Security" (type it in the start menu). Go to inbound rules and check there is a rule for th155 enabled. If there is no rule make a new rule for your th155.exe to allow all connections.
+Check 4: Your local "IPv4 Address" may have changed. If it has you will need to edit your port forwarding rule to match the new IP. You can prevent this from happening in the future by setting up a static IP so it can't change. (This is usually done in your router settings).
+Check 5: Your antivirus software may be blocking connections. Test this by disabling it and checking if hosting works then. If this is the case you will want to add th155.exe to the exceptions list in your antivirus.
+Check 6: Your router may have a built in firewall, log into it and try to configure it to "Low" security or just disabled outright to allow the port forwarding to work.
+Check 7: Some routers are weird about port 10800, try forwarding a different port like 10801 or 7777. (Make sure to choose this port in "Server Setup" in the game and to post your IP with the alternate port.)
+Last resort: Contact your ISP directly and ask them about port forwarding. Some ISPs block ports and make you pay for a more expensive plan (because they want to squeeze your wallet dry at every opportunity).
+ 
+Once again: If you get stuck or can't figure out how to complete a step, don't be afraid ask in the discord or ping me (fishshapedfish#5326)

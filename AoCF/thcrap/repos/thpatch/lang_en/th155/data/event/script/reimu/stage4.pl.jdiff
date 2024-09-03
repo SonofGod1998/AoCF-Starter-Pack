@@ -1,0 +1,112 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a11x3>",
+            "It seems like everyone is",
+            "captivated by this rumor."
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$a11x3>",
+            "We didn't manage to learn",
+            "anything important during",
+            "today's investigation..."
+        ]
+    },
+    "3": {
+        "lines": [
+            "<balloon$a11x3>",
+            "It will be a long",
+            "investigation, I suppose."
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Actually... I don't think",
+            "we're done for today just yet."
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Investigation that makes use",
+            "of Perfect Possession..."
+        ]
+    },
+    "6": {
+        "lines": [
+            "A contraption of pure malice.",
+            "You've made the worst possible choice."
+        ]
+    },
+    "7": {
+        "lines": [
+            "{{ruby|Yukari|You}}...!"
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$b15x3>",
+            "The fact that you came out at",
+            "such a time must mean that",
+            "you're behind all this!"
+        ]
+    },
+    "9": {
+        "lines": [
+            "Forcibly taking over one's body...",
+            "Such a wicked deed."
+        ]
+    },
+    "10": {
+        "lines": [
+            "Or should I say, the pinnacle of all",
+            "evil. Do I really look like someone",
+            "who would do such a thing?"
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a08x3>",
+            "You do!",
+            "You REALLY do!"
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$a11x3>",
+            "It would make no sense",
+            "if you were not involved!"
+        ]
+    },
+    "13": {
+        "lines": [
+            "As it is now, we stand no chance",
+            "against the mastermind.",
+            "This can't be any worse."
+        ]
+    },
+    "14": {
+        "lines": [
+            "That was suspiciously easy..."
+        ]
+    },
+    "15": {
+        "lines": [
+            "<balloon$a11x3>",
+            "How foolish... You don't",
+            "understand the dangers",
+            "behind Perfect Possession."
+        ]
+    },
+    "16": {
+        "lines": [
+            "<balloon$b15x3>",
+            "Now, Yorimashi, the vessel of two",
+            "fools, deluded by danmaku, learn",
+            "the malice through my bullets!"
+        ]
+    }
+}

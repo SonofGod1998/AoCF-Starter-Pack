@@ -1,0 +1,164 @@
+{
+    "0": {
+        "1": "Resume"
+    },
+    "10": {
+        "1": "Back to Character Select"
+    },
+    "9": {
+        "1": "Reset"
+    },
+    "11": {
+        "1": "Back to Title"
+    },
+    "13": {
+        "1": "Config"
+    },
+    "5": {
+        "1": "Guard"
+    },
+    "3": {
+        "1": "Power"
+    },
+    "1": {
+        "1": "Position"
+    },
+    "2": {
+        "1": "Health"
+    },
+    "4": {
+        "1": "Occult"
+    },
+    "8": {
+        "1": "Slave"
+    },
+    "7": {
+        "1": "Master"
+    },
+    "6": {
+        "1": "Spell"
+    },
+    "12": {
+        "1": "Clear Menu"
+    },
+    "14": {
+        "1": "2P Movement",
+        "3": "Normal",
+        "5": "Move up",
+        "7": "Move down",
+        "9": "COM",
+        "11": "2P Control"
+    },
+    "15": {
+        "1": "COM Difficulty",
+        "3": "Easy",
+        "5": "Normal",
+        "7": "Hard",
+        "9": "Lunatic"
+    },
+    "17": {
+        "1": "Guard",
+        "3": "No",
+        "5": "Yes",
+        "7": "Random",
+        "9": "Only Once"
+    },
+    "16": {
+        "1": "Counter Hit",
+        "3": "No",
+        "5": "Yes",
+        "7": "Random"
+    },
+    "19": {
+        "1": "Return",
+        "3": "No",
+        "5": "Forward",
+        "7": "Backward",
+        "9": "Random",
+        "11": "Front (Tag)",
+        "13": "Back (Tag)",
+        "15": "Random (Tag)"
+    },
+    "18": {
+        "1": "Barrier Guard",
+        "3": "No",
+        "5": "Yes"
+    },
+    "_": "_",
+    "20": {
+        "1": "Standby Character",
+        "3": "No change",
+        "5": "Master",
+        "7": "Slave"
+    },
+    "28": {
+        "1": "Dream Soul Counter",
+        "3": "No change",
+        "5": "0",
+        "7": "1",
+        "9": "2",
+        "11": "3",
+        "13": "4"
+    },
+    "27": {
+        "1": "Madness Gauge",
+        "3": "No change"
+    },
+    "24": {
+        "1": "Mantle Color",
+        "3": "No change",
+        "5": "No color",
+        "7": "Red Mantle",
+        "9": "Blue Mantle"
+    },
+    "22": {
+        "1": "Chant Counter",
+        "3": "No change",
+        "5": "0",
+        "7": "1",
+        "9": "2",
+        "11": "3",
+        "13": "4",
+        "15": "5"
+    },
+    "25": {
+        "1": "Tanuki Counter",
+        "3": "No change",
+        "5": "0",
+        "7": "1",
+        "9": "2",
+        "11": "3",
+        "13": "4"
+    },
+    "23": {
+        "1": "Plate Counter",
+        "3": "No change",
+        "5": "0",
+        "7": "1",
+        "9": "2",
+        "11": "3",
+        "13": "4",
+        "15": "5",
+        "17": "6",
+        "19": "7",
+        "21": "8",
+        "23": "9",
+        "25": "10"
+    },
+    "21": {
+        "1": "Next Ghost Story",
+        "3": "No change",
+        "5": "Phantom of the Gym",
+        "7": "The Music Room Piano",
+        "9": "Portraits of the Former Principals",
+        "11": "Running Ninomiya Sontoku"
+    },
+    "26": {
+        "1": "Emotion Mode",
+        "3": "No change",
+        "5": "No Emotion",
+        "7": "Sad",
+        "9": "Joy",
+        "11": "Anger"
+    }
+}

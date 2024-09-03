@@ -1,0 +1,170 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a08x2>",
+            "You're a kappa?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Yeah. Are you the outsider?"
+        ]
+    },
+    "3": {
+        "lines": [
+            "I'm guessing rumors of Perfect",
+            "Possession haven't spread",
+            "to the outside world?"
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a11x2>",
+            "What's Perfect Possession?"
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a05x2>",
+            "This."
+        ]
+    },
+    "6": {
+        "lines": [
+            "You play around like that!"
+        ]
+    },
+    "7": {
+        "lines": [
+            "Wow! You became a different",
+            "person for an instant!",
+            "A transformation ability?"
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a15x3>",
+            "It's called Perfect Possession. Like",
+            "normal possession, but you replace",
+            "the body along with the spirit."
+        ]
+    },
+    "9": {
+        "lines": [
+            "Taking over the body? So it's",
+            "like teleportation then?"
+        ]
+    },
+    "10": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Show me again!"
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a05x2>",
+            "Kaaay."
+        ]
+    },
+    "12": {
+        "lines": [
+            "Like that. If you're interested,",
+            "then even you should be able to-"
+        ]
+    },
+    "13": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Wait, aren't you already",
+            "possessed by something?"
+        ]
+    },
+    "14": {
+        "lines": [
+            "Hehehe... Seems like I got caught",
+            "because of the incident."
+        ]
+    },
+    "15": {
+        "lines": [
+            "<balloon$a15x2>",
+            "But this isn't Perfect Possession."
+        ]
+    },
+    "16": {
+        "lines": [
+            "I'm another Sumireko, driven out of",
+            "the Dream World by Perfect Possession."
+        ]
+    },
+    "17": {
+        "lines": [
+            "Dream Sumireko!"
+        ]
+    },
+    "18": {
+        "lines": [
+            "Perfect Possession is suppressing",
+            "the Dream World."
+        ]
+    },
+    "19": {
+        "lines": [
+            "Dream World Sumireko?",
+            "What are you talking about?"
+        ]
+    },
+    "20": {
+        "lines": [
+            "<balloon$a11x2>",
+            "It's just as she said."
+        ]
+    },
+    "21": {
+        "lines": [
+            "Perfect Possession is controlling",
+            "the Dream World."
+        ]
+    },
+    "22": {
+        "lines": [
+            "<balloon$a15x3>",
+            "If this keeps up,",
+            "the suppressed dream dwellers",
+            "will end up going berserk."
+        ]
+    },
+    "23": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Oh no! I can't read this",
+            "person's feelings!"
+        ]
+    },
+    "24": {
+        "lines": [
+            "It's possible that the synchronized",
+            "feelings don't exist."
+        ]
+    },
+    "25": {
+        "lines": [
+            "What the heck are you?"
+        ]
+    },
+    "26": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I am Doremy Sweet,",
+            "the ruler of dreams."
+        ]
+    },
+    "27": {
+        "lines": [
+            "From the standpoint of the Dream",
+            "World, I think it'd be best if you",
+            "stopped abusing Perfect Possession."
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "1": {
+        "lines": [
+            "<balloon$a08x3>",
+            "Hey, you there!",
+            "Wanna fight?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Hehe, sure thing."
+        ]
+    },
+    "3": {
+        "lines": [
+            "Hehehe. I got my hands on",
+            "an interesting power. It kinda",
+            "feels like cheating, though."
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a11x3>",
+            "You're gonna be my",
+            "sparring partner until",
+            "I get used to it.",
+            "<balloon$a08x2>",
+            "Get ready!"
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Oh, what a coincidence.",
+            "I was just about to test",
+            "my new power as well."
+        ]
+    },
+    "6": {
+        "lines": [
+            "...As in what?"
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a15x2>",
+            "I know this seems sketchy..."
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a15x2>",
+            "but we're doing this as a duo."
+        ]
+    },
+    "9": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Aww... You're doing",
+            "the Perfect Possession",
+            "thing, too?!"
+        ]
+    },
+    "10": {
+        "lines": [
+            "<balloon$a11x3>",
+            "The plan was to beat you",
+            "up two on one, and now",
+            "it's all ruined!"
+        ]
+    },
+    "11": {
+        "lines": [
+            "<balloon$a11x3>",
+            "You two are completely",
+            "unsynchronized. Why would",
+            "you pair up like that?"
+        ]
+    },
+    "12": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Awww. We lost."
+        ]
+    },
+    "13": {
+        "lines": [
+            "I'm still not really used to fighting",
+            "in a pair... Well, we won somehow."
+        ]
+    },
+    "14": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I'm surprised that you two",
+            "are using Perfect Possession."
+        ]
+    },
+    "15": {
+        "lines": [
+            "<balloon$a08x3>",
+            "All right, next time",
+            "I'll be the master."
+        ]
+    },
+    "16": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Yeah, yeah, I know, that's",
+            "part of the deal."
+        ]
+    },
+    "17": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Wha- You can switch",
+            "masters that easily?!"
+        ]
+    }
+}

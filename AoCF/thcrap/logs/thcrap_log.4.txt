@@ -1,0 +1,90 @@
+――――――――――――――――――――――――――――――――――――――――――――――――――
+Touhou Community Reliant Automatic Patcher logfile
+Branch: stable
+Version: 2023-05-08
+Current time: Aug 15 2023 2:24:27
+Build time: May  8 2023 22:39:14
+Built by: brliron
+Command line: "C:\Users\jacks\Desktop\AoCF Resource Pack\thcrap\bin\thcrap_loader.exe" "en.js" th155_beta
+
+System Information:
+CPU: AMD Ryzen 5 5600G with Radeon Graphics         
+RAM: 23.29GiB free out of 31.4GiB, 25% used
+OS/Runtime: Windows 11, Build 22621
+Code pages: ANSI=1252, OEM=437
+
+Screens:
+Generic PnP Monitor on Radeon RX 580 Series: 1920x1080@32 60Hz
+――――――――――――――――――――――――――――――――――――――――――――――――――
+
+[update] Running update 0...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'thcrap.dll' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 0 done.
+[update] Running update 1...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'config' exists.
+[update] Detect test - checking if 'logs' exists.
+[update] Detect test - checking if 'repos' exists.
+[update] Detect test - checking if 'version-resolve-installed.dat' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 1 done.
+[update] Running update 2...
+[update] detect field present. Running detect test...
+[update] Detect test - checking if 'thcrap_configure.exe' exists.
+[update] File don't exist - cancelling the update.
+[update] Update 2 done.
+Parsing command line...
+Loading run configuration C:\Users\jacks\Desktop\AoCF Resource Pack\thcrap\config\en.js... found
+Using exe C:\Users\jacks\Desktop\AoCF Resource Pack\thcrap\../th155/th155_beta.exe
+Command-line parsing finished
+Updates are enabled. Initializing update UI
+(JSON) Resolving versions.js... 
+ + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/base_tsa/versions.js
+  + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/base_tasofro/versions.js
+Hashing executable... → th155 v1.19_beta3 (original, beta) (codepage 0)
+(JSON) Resolving configuration for th155.js... 
+ + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/base_tsa/global.js
+  + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/base_tasofro/global.js
+  + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/base_tasofro/th155.js
+  + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/base_tasofro/th155.v1.19_beta3.js
+   + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/script_latin/global.js
+   + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/script_latin/th155.js
+   + C:/Users/jacks/Desktop/AoCF Resource Pack/thcrap/repos/nmlgc/script_latin/th155.v1.19_beta3.js
+Another instance of thcrap_loader is already running. Closing it...
+Creating UI thread and main window... done.
+Looking for thcrap updates...
+Checking for engine updates...
+Update: using libcurl backend
+thcrap is up to date.
+Updating patches with global filter (don't download game-specific files)...
+Stack update done.
+Updating patches with game-specific filter...
+Stack update done.
+Starting C:\Users\jacks\Desktop\AoCF Resource Pack\thcrap\../th155/th155_beta.exe with arguments (null)... done.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... timeout, running update.
+Updating every patches with no filter...
+Global update done.
+Update finished. Waiting until next update (5 min)... main window closed. Exiting.
+Removing plug-ins...

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "lines": [
+            "So have you finished cleaning",
+            "the garden, Joon?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Bleh! You think I'd ever do anything",
+            "as uptight as cleaning the temple?!"
+        ]
+    },
+    "3": {
+        "lines": [
+            "So you're escaping then?",
+            "Then I'll have to annihilate you."
+        ]
+    },
+    "4": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Ha? Annihilate?",
+            "I'd like to see you try!"
+        ]
+    },
+    "5": {
+        "lines": [
+            "<balloon$a15x3>",
+            "You hadn't noticed?",
+            "There's an annihilation bomb",
+            "implanted in your skull."
+        ]
+    },
+    "6": {
+        "lines": [
+            "Hm? Annihilation bomb?",
+            "What?"
+        ]
+    },
+    "7": {
+        "lines": [
+            "It's activated when I speak",
+            "the incantation. I insisted on it, ",
+            "just in case you resisted."
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a11x2>",
+            "Wha? Y-You're joking..."
+        ]
+    },
+    "9": {
+        "lines": [
+            "<balloon$a11x3>",
+            "I can't tell if she's lying.",
+            "What do we do?"
+        ]
+    },
+    "10": {
+        "lines": [
+            "Isn't it obvious?!"
+        ]
+    },
+    "11": {
+        "lines": [
+            "We keep up the attack so",
+            "she can't chant the spell!"
+        ]
+    },
+    "12": {
+        "lines": [
+            "Just kidding! Not that it wouldn't",
+            "be simpler if there really were a bomb."
+        ]
+    },
+    "13": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Whaaaat? So this was",
+            "just the dream version?"
+        ]
+    },
+    "14": {
+        "lines": [
+            "So that bomb was a lie, right?",
+            "You scared me for a second there."
+        ]
+    },
+    "15": {
+        "lines": [
+            "<balloon$a08x2>",
+            "Oh, you realized.",
+            "<balloon$a15x3>",
+            "I just thought, 'wouldn't it be",
+            "nice if there were a spell to",
+            "easily remove people I don't like...'"
+        ]
+    },
+    "16": {
+        "lines": [
+            "You sure think lazy thoughts",
+            "for someone who makes other",
+            "people do so much work."
+        ]
+    },
+    "17": {
+        "lines": [
+            "<balloon$a11x3>",
+            "There's nothing wrong with",
+            "wanting an easier life.",
+            "<balloon$a15x3>",
+            "If I could attain enlightenment",
+            "without training, nothing would",
+            "please me more."
+        ]
+    },
+    "18": {
+        "lines": [
+            "<balloon$a15x2>",
+            "Incidentally, don't leave please."
+        ]
+    },
+    "19": {
+        "lines": [
+            "<balloon$a15x3>",
+            "I make the disciples do all",
+            "the cooking, cleaning, and laundry by",
+            "telling them it's for their training.",
+            "<balloon$a15x2>",
+            "It's to make my life easier."
+        ]
+    },
+    "20": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Is this really how that",
+            "bum priest thinks?"
+        ]
+    },
+    "21": {
+        "lines": [
+            "<balloon$a11x3>",
+            "...Weird. Suddenly I feel",
+            "a deep connection with her."
+        ]
+    },
+    "22": {
+        "lines": [
+            "<balloon$a11x3>",
+            "Maybe I'll stick around",
+            "at the temple a little longer."
+        ]
+    },
+    "23": {
+        "lines": [
+            "<balloon$a08x2>",
+            "J-Joon?!"
+        ]
+    }
+}
