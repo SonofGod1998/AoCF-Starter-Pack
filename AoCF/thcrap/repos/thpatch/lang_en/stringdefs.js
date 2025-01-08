@@ -385,9 +385,9 @@
     "th145": "Touhou Deep Secrets Record ~ Urban Legend in Limbo",
     "th15": "Touhou Legend of the Ultramarine Orb ~ Legacy of Lunatic Kingdom",
     "th155": "Touhou Flowers of Possession ~ Antinomy of Common Flowers",
-    "th16": "Touhou Jade Scepter of the Skies ~ Hidden Star in Four Seasons",
+    "th16": "Touhou Heavenly Jade Dipper ~ Hidden Star in Four Seasons",
     "th165": "Secret Sealing Nightmare Diary ~ Violet Detector",
-    "th17": "Touhou Beast in Oni's Shape ~ Wily Beast and Weakest Creature",
+    "th17": "Touhou Oni-Shaped Beast ~ Wily Beast and Weakest Creature",
     "marilega": "MarisaLand Legacy",
     "th175": "Touhou Strange Tale of Avarice ~ Sunken Fossil World",
     "th18": "Touhou Rainbow Dragon Cavern ~ Unconnected Marketeers",
@@ -520,5 +520,10 @@
     "th07_log_Vsync": "Vertical synchronization is disabled.\n",
     "th095_log_refresh_rate_suggestion": "Try to change the refresh rate to 60Hz.\n",
     "th06 config export failure": "Cannot overwrite file %s.\nDoes it have read-only attribute?",
-    "th09 config export failure": "Cannot overwrite file %s.\nPlease check whether it has read-only attribute."
+    "th09 config export failure": "Cannot overwrite file %s.\nPlease check whether it has read-only attribute.",
+    "th19 config": "Touhou Juuouen - Environment Custom Program",
+    "th185 config": "Bulletphiles' Black Market - Environment Custom Program",
+    "th185 JP": "100th Black Market",
+    "th19 JP": "Unfinished Dream of All Living Ghost",
+    "th19 net latency none notice": "Can play as easily as in the local play: suitable for super-high speed connection"
 }

@@ -25,7 +25,7 @@
   "th155.v1.10.js": null,
   "th155.v1.10_steam.js": null,
   "th155.v1.19_beta3.js": null,
-  "th155.v1.21b.js": 2888674521,
+  "th155.v1.21b.js": 1368424182,
   "th155/data/actor/doremy.nut.map": 2438619096,
   "th155/data/actor/futo.nut.map": 131325834,
   "th155/data/actor/hijiri.nut.map": 3587443798,

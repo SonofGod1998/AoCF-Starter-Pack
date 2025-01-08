@@ -1,37 +1,46 @@
 # AoCF-Starter-Pack
-This pack aims to collect all resources for the game 東方憑依華/Touhou Hyouibana ~ Antinomy of Common Flowers (Commonly known as AoCF by Western Players)
+This starter pack aims to get you started playing the game 東方憑依華/Touhou Hyouibana ~ Antinomy of Common Flowers (Commonly known as AoCF by Western Players). If you already own the game, we have a pack that doesn't contain the game.
 
-					Before unzipping any folders, please read the following:
-					=Everything in here can be discussed in the Touhou 15.5 Discord Link=
+Before unzipping any folders, please read the following:
+Everything in here can be discussed in the Touhou 15.5 Discord Link
 
-In this zip file you will find all sorts of references on troubleshooting and all the gathered information about the game such as hosting and modding it.
+In this zip file you will find many resources, as well as Squiroll 1.3 for you to get started playing the game.
 
-This Text file will be used as a tutorial for those who want to do more in aocf or for those who just want to play without care.
+This Text file will be used as a tutorial for those who want to do more in AoCF or for those who just want to play.
 # Steam-Paid [No Game]
-	If you do NOT condone cracked games, please unzip only the "Steam-Paid" zip folder as you are expected to pay the game or own the game at the latest version, 1.21b [09/01/2024]
+If you do NOT condone cracked games, please unzip only the "Steam-Paid" zip folder as you are expected to pay the game or own the game at the latest version, 1.21b [01/08/2025]
 
-	If you do not care about cracked games, please unzip "AoCF" zip folder since that has the entire game assests
+If you do not care about cracked games, please unzip "AoCF" zip folder since that has the entire game assests
 
-					The Steam Zip Folder contains the following:
+The Steam Zip Folder contains the following:
 
-## Dump to your AoCF Folder
-- This folder contains all of Proxypunch's versions which are
+## 1. Unzip and put these files in your AoCF folder.zip
+- This zip folder contains all of Proxypunch's versions which are
 	- Proxypunch 32-bit Linux
 	- Proxypunch 64-bit Linux
 	- Proxypunch 32-bit Windows
 	- Proxypunch 64-bit Windows
+- This zip folder also contains Squiroll 1.3
+	- Netcode.dll
+	- th155r.exe
+- This zip folder also contains a full save file
+	- score.dat
 ## All Online Links
+### Discord Links
+1. AoCF Discord Server (Join!)
+2. Squiroll Announcement and Explanation
+3. If you need help, ask in our forum (#aocf-help)
 ### Online Related Links
-1. Fear and Tom's Netplay Patch Official Site
-2. How to Port Forward AoCF
-3. Delthas' Proxypunch Github
+1. Squiroll Latest Version (link to Daze's github)
+2. How to Port Forward AoCF.txt
+3. Proxypunch Guide
 ### Wiki Related Links
 1. Community AoCF Wiki Page
 2. Wiki Controls Page
 3. Wiki Mechanics Page
 4. Wiki Modding Page
 ### Community Programs Link
-1. touhouSE Direct Download
+1. touhouSE Direct Download (Wayback Machine used, the page no longer exists)
 2. All Major Character's Sprites Extracted + Frame Data Text Google Drive
 3. brliron's 135tk Github
 4. brliron's Palette Editor Github
@@ -40,90 +49,91 @@ This Text file will be used as a tutorial for those who want to do more in aocf 
 7. Mathy's Decompiled Squirrel Code
 8. thcrap Official Website
 ### Legacy Related Links
-1. AoCF Base + Beta 4 Mega Download Link
-2. AoCF Beta 4 tweet
-## Fresh New thcrap
+1. Delthas' Proxypunch (Squiroll has made it easy to host without having to use Proxypunch)
+2. AoCF Base + Beta 4 Mega Download Link
+3. AoCF Beta 4 tweet
+4. Fear and Tom's Netplay Patch (Squiroll has this already, and more!)
+## thcrap Unpacked
 - This folder contains thcrap fully extracted from the official website [September 1st, 2024]
 # AoCF [Full Game]
-					The AoCF Zip Folder contains the above with the addition of the following:
+The AoCF Zip Folder contains the above with the addition of the following:
+- th155 folder (the literal game, prepackaged with Squiroll 1.3 and Proxypunch in case it doesn't work)
+- thcrap extracted and linked to the game itself (just click "th155 (en)" and you'll be running Squiroll!)
 
-- th155 folder
-- thcrap extracted and linked to the game itself
-
-
-		Any and all downloads you do are optional and they can all work without each other.
-		If you do decide to download all of them, make sure to keep everything organized, only use one folder and download it all into that folder. (ei. Download in AoCF Folder Only)
-		From here on out, I will make a table of content on all the downloaded files and a further explanation/their usage if you are interested about it/get told to use it later.
-
-General Information (Controls, etc.):
+Any and all downloads you do are optional and they can all work without each other.
+If you do decide to download all of them, make sure to keep everything organized, only use one folder as your game folder and download it all into that folder.
+From here on out, I will make a table of content on all the downloaded files and a further explanation of their usage if you are interested about it.
+## General Information (Controls, etc.):
 
 The Wiki Links all come from "AoCF Koumakan Wiki Link", the English Wiki that has the most information on frame data and more about AoCF.
 
 ## Online Guide/History
 
 The Guide on how to host is only used for those who want to host.
-AoCF's main netplay fights are done with a "host" or a "client" where someone has to be portforwarded and someone has to connect to that portforwarded person (pf is the abbreviation to shorten it down).
-AoCF used to have a lobby that connected to a random user who is searching for games as well, but as of writing this, the lobby function has been broken and is no longer in use.
-Lobby was mostly used by Japanese players given the bad netcode AoCF has, everyone else used direct IP fights.
-To connect/fight/play someone, you have to get their public IP + their port (given by the Host) and connect to them directly (ex. 123.456.789.012:10800)
-If you can host, you would give your own public IP.
 
-If pf is not possible, the next best thing is called "Universal Plug and Play": UPnP.
-AoCF has an option for you to turn that on, but unless you've gone to your router settings to set this up, this function might not work.
-UPnP *will* add latency, but if you use Fear and Tom's Netplay patch, an extra 10-15 ping won't make much of a difference (unless you're already at 180-350 ping).
-This option is only best done if you can't seem to portforward but can still get into your router settings.
+This old guide can still be useful for those who would like to Port Forward if they are able to. With the Squiroll mod, this isn't really "NECESSARY", but just like nothing in this world is perfect, neither is Squiroll.
 
-If you can't seem to work anything out with your router settings or can't access it, then your last option is 3rd party software.
-One is provided for you called "Delthas' ProxyPunch". This is what most people use when neither players can host.
-That being said, the one drawback is that NO ONE can spectate, so do keep that in mind.
+The game connects using IP:Port, so if you'd like to connect to a friend/significant other, it's still possible, but you can also use the Squiroll Revived lobby system that removes any hassle of sharing IP's. Choose a lobby and choose "Waiting", and your opponent needs to press "Search" and you're set, a few seconds later, you'll be connected and ready to play.
 
-If all is said and done and you STILL can't host, VPN is your absolute last option. The public IP shouldn't be hard to get, a simple searching online can get that done.
-The upside to this is that people can spectate you (and you have secured internet protection ;P).
+IF for some reason you still want to try to connect directly, you can also use UPnP, but you might need to enable that in your router... which you might as well do Port Forward if you are able to access your router.
 
-If you do decide to play, the version the AoCF Server uses is version 1.21b.
-As of writing this, this is what the console release uses and no major changes were found so you're free to play on PC or console (but there's more people playing on PC)
+If Squiroll isn't working because of router reasons, you can use Proxypunch.win64.exe to connect using virtual ports. We have a guide to show you how to get it working in "Online Related Links".
 
-## Fear and Tom's Netplay Patch History:
+If you really can't connect with that, then you might have to use a 3rd party software such as VPN's like Radmin, zerotier and others. This option is your last resort and the highest ping in the order of options from the above to this.
 
-The unfortunate thing about AoCF (as noted) is that it has broken netcode.
-You are only limited to your region with low ping given the infamous "Black Screen Bug".
-If you want to play someone far away, it would mostly be above 120 ping, which would crash the connection, causing the Black Screen Bug.
-If you play someone with high ping (near 70-100 ping or someone with stuttery connection), it will activate the slowdown netcode, making the game go slow.
-Tasofro knew about this and made the game 'speed up' to compensate for slowing down the game.
-This can mostly be seen when playing someone who has bad connection and stutters the game too much, and then suddenly out of nowhere it's back to normal... except faster.
+This game has no crossplay, so PC users can't play with Switch players and vice versa.
 
-A user named "-Tom-" in discord came around to help mitigate the bug which fixed the 120 ping crash, which allowed users to play at higher pings.
+## Fear and Tom's Netplay Patch & Squiroll's History:
 
-Now being able to play at higher pings allowed more players to play with more people, but the slowdown/lockstep netcode was still annoying.
+Since the beginning, AoCF has had a terrible netcode given that the connection can either make the game connect to you with a really terrible connection... or get you softlocked.
+The game has a "120 ping limit" because of how badly the netcode was written, so connections higher than that will get a "Black Screen Bug", if they are even able to connect at all (thanks to how little people can port forward)
+But let's say you were able to connect to someone below that... well, your connection is going to be slowed down, like as if you were playing the game at 0.5x...
 
-A discord user named "Fear" came along and tampered with the netcode code and found that Tasofro had a delayed based netcode already in the game.
-With the help of -Tom-, they were both able to publically release a mod that allows delayed based netcode to work alongside the game.
+We (the AoCF Community) suffered through this for about 2 years, when suddenly a Discord user named "-Tom-" popped out of nowhere and came by to suddenly fix the problem.
+Tom has a website that shows who's online, but thanks to the bug, it was preventing him from doing that, so he took it upon himself to fix the bug... and he did.
+This is the first "patch" we have that actually improved the game, but it was just to fix the "Black Screen Bug"... not the heavy lag.
 
-This is what we now call "netplay patch" given that it allows users to play smoothly in higher pings than normal netplay.
+For that, we have another Discord user named "Fear Nagae" (helped create Soku2 mod) who used to play ULiL and AoCF before moving on to their own projects, but decided to check and see if they could fix tasofro's mistake.
+They couldn't understand AoCF, so they did a "Proof of Conecpt" with Hopless Masquerade and then moved on to ULiL and finally fixed AoCF's netcode slowdown!
 
-The main version to play netplay patch is the base game 1.21b, we used to have play with the beta version, but that is no longer the case.
+With that, Tom and Fear combined their findings and from then on out we had the patch we all named "Netplay Patch".
+
+We all used this Netplay Patch even when tasofro updated from 1.19 beta 4 -> 1.21b...
+
+But people wanted more, people wanted a ROLLBACK game. So someone "planned" to make it possible, but they didn't get much information from either Tom (busy) or Fear (forgot what they even did).
+
+Discord user "Dazegambler", while also playing the game, took it upon himself to start learning how AoCF really works and tried his best to mod the game with his limited knowledge... but information was being sent all over the place.
+
+SonofGod1998 then decided to create a dev chat room for only those actually helping this Rollback Project continue and then added more users:
+- Takuneru
+- JustAPenguin
+- VPR
+- zero318
+- brliron
+- Shoxla
+- hagB_
+- Khangaroo
+- dec
+- and many more
+
+With their help, (and after many headaches and many curses to tasofro), the Squrioll Project came to be.
+
+Even though there is "roll" in the name, Rollback as of yet (January 08th, 2025) has not be released, but a lot of Quality of Life (QoL) has been modded into the game with many game improvements (1.3 has improved input reading, game is broken, 1.3 fixed a lot of problems. Ask @SonofGod_1998, @zero318 or @khangaroo for more info) and many more to come.
+
+If you are reading this on January 08th, 2025 or near this time before Squiroll 1.4 has come out, let me give you a sneak peek of what 1.4 has to offer... real time hitboxes! And while Daze is bashing his head to get frame data to show up, I believe in him and the team as they have shown their dedication to coding. So while Daze hasn't had success with Frame Data "yet", believe me when I say, "I can't wait for people to finally see their replays with hitboxes and frame data!!!". I was very hyped to see my old matches show up with hitboxes and see when things dropped and why, as well as the distances things did and didn't connect. Can't wait for more people to finally have their hands of 1.4!!!!
+
+That being said, what you're reading this right now, this is history in the making, as this story doesn't end here, but rather has no ending because what lies ahead of us is unknown... let me know if you'd like me to update the story ;)
 
 ## ProxyPunch
 
-Portforwarding is the prefered way to host the game since it's the most secure way.
-Unfortunately not everyone can mess with their router, and if two players who can't host want to play, there's almost no way to play with each other.
-Luckily Delthas made ProxyPunch, which works the same as AutoPunch (but AP doesn't always detect AoCF).
-With this program, you're able to make a virtual server and connect in-game. Spectating is not possible.
-Read the Code Page to understand how to use it.
+No longer used, unless Squiroll can't get it to work.
+If you need to use it, there is a guide on what you need to do, but overall, you used to have to connect using Proxypunch and then get your opponent to do so as well... but it didn't always work (and neither is Squiroll perfect) and the lag was still noticeable. Even when we got the first release of Squiroll, people couldn't believe how good it was. So again, we don't really use this, but if you need to, you have it.
 
 ## THCRAP (Touhou Community Reliant Automated Patch)
 
-THCRAP is a community driven patch that allows you to patch the game (mod basically) to have it at your own language (thanks to the community for translating) and more.
-AoCF's official translation isn't bad but it doesn't cover EVERY single character/letter in the game, while thcrap does. From spells to the bullet's translation, official doesn't touch most of those.
-Not only can you have a better translation in the game, you can also modify the contents.
-If you follow the same path that you find the assets (if you manually extract aocf's data), you can put your own asset and (if everything goes right), it will show up in your thcrap aocf.
-This is how the frame data information was decoded, with thcrap and its ability to take in modified data and run with it (if it doesn't crash the game).
+thcrap is used a lot for modding simple stuff, such as music swapping, background stage swapping, UI modding, character effects and anything that is .png related modding.
 
-Another good thing about thcrap is the fact that, when you try to run aocf beta version, you have to keep pressing "run as administrator"... but with thcrap, all you have to do is press
-"Run the game"
-this eliminates the necessity to constantly see the message that you want to allow the app to run as admin.
-
-thcrap is the best way to mod this game but with -Tom-'s netplay.dll, there's a way to mod the game without thcrap, but it's really complicated that you're better asking him on the server
+thcrap is also mostly used for translating touhou games, but the power of thcrap is really powerful if you know what you're doing such as replacing Tenshi's Last Word effects, swapping out Koishi's occult sound effect and more. Squiroll also works with thcrap, so any mods you do will work just fine.
 
 ## Code/Frame/Game Extraction Info
 
