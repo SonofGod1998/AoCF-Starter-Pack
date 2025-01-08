@@ -7,7 +7,7 @@
     },
     "2": {
         "lines": [
-            "<balloon$b11x2>",
+            "<balloon$c11x2>",
             "...Wait, Joon?",
             " Where'd you go?"
         ]
@@ -71,7 +71,7 @@
     },
     "12": {
         "lines": [
-            "<balloon$c15x3>",
+            "<balloon$a15x3>",
             "You were supposed to lose control of",
             "your body when you possessed Joon..."
         ]
@@ -111,7 +111,7 @@
     },
     "18": {
         "lines": [
-            "<balloon$b11x2>",
+            "<balloon$a11x2>",
             "Dammit! It was a trap!"
         ]
     },
@@ -128,7 +128,7 @@
     },
     "21": {
         "lines": [
-            "<balloon$b15x3>",
+            "<balloon$a15x3>",
             "So I'm not possessing Yukari then...?",
             "Wait, then my slave must be-"
         ]

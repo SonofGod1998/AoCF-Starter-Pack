@@ -773,5 +773,22 @@
     "mcd_01_13": "The Curious Everyday Life of the Flying Shrine Maiden",
     "th075_20": "Eastern Forgathering Dream",
     "th01_08": "Small Evil-Crushing Blade",
-    "th02_18": "Demon-Sealing Finale"
+    "th02_18": "Demon-Sealing Finale",
+    "mcd_05_10": "The Moon of the Other Side",
+    "th075_05": "The Witches' Ball",
+    "th075_09": "Doll Judgment",
+    "th075_19": "End of Summer",
+    "th075_21": "Demonic Place",
+    "th075_22": "The Moon",
+    "th075_23": "Wanderings",
+    "th075_24": "Inner Heart",
+    "th075_25": "Intermezzo",
+    "th075_26": "Eastern Wind",
+    "th075_27": "Silence",
+    "th075_28": "Skygazer",
+    "th075_29": "Solitary Place",
+    "th075_30": "Unexpected Visitor",
+    "th075_31": "Scarlet Night",
+    "th075_32": "Swift Battle",
+    "th075_33": "Bad Omen"
 }

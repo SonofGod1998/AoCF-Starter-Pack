@@ -70,7 +70,11 @@
         "https://mirrors.thpatch.net/neonickz/",
         "https://mirrors.thpatch.net/Wast/",
         "https://mirrors.thpatch.net/Daichungus/",
-        "https://mirrors.thpatch.net/RogyWantsCoffee/"
+        "https://mirrors.thpatch.net/RogyWantsCoffee/",
+        "https://mirrors.thpatch.net/Wensomt/",
+        "https://raw.githubusercontent.com/Uielicious/thcrap-projects/main/",
+        "https://mirrors.thpatch.net/takuneru/",
+        "https://mirrors.thpatch.net/RosePenguin/"
     ],
     "url_desc": "http://thpatch.net/wiki/Category:Patches",
     "servers": [
@@ -199,6 +203,7 @@
         "lang_pnb": "Punjabi translation (Shahmukhi Abjad)",
         "lang_aeb": "Tunisian Arabic language pack",
         "lang_gn-jopara": "Jopara language pack",
-        "lang_es-peru": "Peruvian Spanish language pack"
+        "lang_es-peru": "Peruvian Spanish language pack",
+        "lang_es-ar-ba": "Porteños Argentine Spanish language pack"
     }
 }
