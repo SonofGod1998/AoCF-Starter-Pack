@@ -1,6 +1,6 @@
 {
   "patch.js": 891309313,
-  "stringdefs.js": 1941283754,
+  "stringdefs.js": 3275378529,
   "th06.js": 1747286588,
   "th09.js": 1042614841,
   "th155/data/actor/common_texture/win1P.png": 3761571513,
@@ -245,11 +245,12 @@
   "th155/data/system/ed/staffpic/staffmoji8.png": 1062664656,
   "th155/data/system/ed/staffpic/staffmoji9.png": 3926829113,
   "th155/data/system/ed/staffpic/staffpic3.png": 94467256,
-  "th155/data/system/ed/staffroll.csv.jdiff": 4220475554,
+  "th155/data/system/ed/staffroll.csv.jdiff": 536566347,
   "th155/data/system/help/item.csv.jdiff": 2623839001,
   "th155/data/system/key_config/config_pad1.png": 2538856306,
   "th155/data/system/key_config/config_pad2.png": 2270760755,
   "th155/data/system/key_config/parts.png": 238298516,
+  "th155/data/system/music_room/object.png": 2460742711,
   "th155/data/system/network/item.csv.jdiff": 2980786611,
   "th155/data/system/network/network_font.png": 3617823855,
   "th155/data/system/pause/item.csv.jdiff": 680559166,
@@ -263,7 +264,7 @@
   "th155/data/system/select/name/name_001.png": 2866865716,
   "th155/data/system/select/name/name_002.png": 886604994,
   "th155/data/system/select/name/name_003.png": 2373078337,
-  "th155/data/system/select/name/name_004.png": 1876516881,
+  "th155/data/system/select/name/name_004.png": null,
   "th155/data/system/select/name/name_005.png": 1247391591,
   "th155/data/system/select/name/name_006.png": 2806103851,
   "th155/data/system/select/name/name_007.png": 2342530221,
@@ -380,6 +381,6 @@
   "th155/data/win/message/yukari.csv.jdiff": 180522787,
   "th155/nut_strings.js": 2378165397,
   "th155/spells.js": 4021483514,
-  "themes.js": 1949848338,
+  "themes.js": 3256677489,
   "title03.anm.jdiff": null
 }

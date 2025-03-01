@@ -4,7 +4,7 @@ This starter pack aims to get you started playing the game 東方憑依華/Touho
 Before unzipping any folders, please read the following:
 Everything in here can be discussed in the Touhou 15.5 Discord Link
 
-In this zip file you will find many resources, as well as Squiroll 1.3 for you to get started playing the game.
+In this zip file you will find many resources, as well as Squiroll 1.4 for you to get started playing the game.
 
 This Text file will be used as a tutorial for those who want to do more in AoCF or for those who just want to play.
 # Steam-Paid [No Game]
@@ -20,7 +20,7 @@ The Steam Zip Folder contains the following:
 	- Proxypunch 64-bit Linux
 	- Proxypunch 32-bit Windows
 	- Proxypunch 64-bit Windows
-- This zip folder also contains Squiroll 1.3
+- This zip folder also contains Squiroll 1.4
 	- Netcode.dll
 	- th155r.exe
 - This zip folder also contains a full save file
@@ -57,7 +57,7 @@ The Steam Zip Folder contains the following:
 - This folder contains thcrap fully extracted from the official website [September 1st, 2024]
 # AoCF [Full Game]
 The AoCF Zip Folder contains the above with the addition of the following:
-- th155 folder (the literal game, prepackaged with Squiroll 1.3 and Proxypunch in case it doesn't work)
+- th155 folder (the literal game, prepackaged with Squiroll 1.4 and Proxypunch in case it doesn't work)
 - thcrap extracted and linked to the game itself (just click "th155 (en)" and you'll be running Squiroll!)
 
 Any and all downloads you do are optional and they can all work without each other.
@@ -122,7 +122,9 @@ Even though there is "roll" in the name, Rollback as of yet (January 08th, 2025)
 
 If you are reading this on January 08th, 2025 or near this time before Squiroll 1.4 has come out, let me give you a sneak peek of what 1.4 has to offer... real time hitboxes! And while Daze is bashing his head to get frame data to show up, I believe in him and the team as they have shown their dedication to coding. So while Daze hasn't had success with Frame Data "yet", believe me when I say, "I can't wait for people to finally see their replays with hitboxes and frame data!!!". I was very hyped to see my old matches show up with hitboxes and see when things dropped and why, as well as the distances things did and didn't connect. Can't wait for more people to finally have their hands of 1.4!!!!
 
-That being said, what you're reading this right now, this is history in the making, as this story doesn't end here, but rather has no ending because what lies ahead of us is unknown... let me know if you'd like me to update the story ;)
+At this current moment, February 16th, 2025, the starter pack has finally been updated to include the latest version of Squiroll, this includes a lot of frame data stuff, as well as profile pictures! Please check Squiroll's github to understand how to create your own profiles ;D Everything can be seen and explained in the replays as well as training mode! More things to come up 1.5... but eventually, we'll get rollback, it's just a hard thing to do when we have yet to fully understand the entire game... but also, we have gotten a new dev named @wearr who is attempting to reverse engineer AoCF. We'll see how it goes, but I have no doubt that they'll do a good job! 
+
+That being said, what you're reading this right now, this is history in the making, as this story doesn't end here, but rather has no ending because what lies ahead of us is unknown... let me know if you'd like me to update the story ;D
 
 ## ProxyPunch
 

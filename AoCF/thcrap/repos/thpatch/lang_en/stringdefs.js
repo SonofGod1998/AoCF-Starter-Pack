@@ -86,7 +86,7 @@
     "th10 Music Room spoiler 3": "<c$Do you still wish to play this song?$>",
     "th10 Music Room spoiler 4": "<c$If you would like to play, please press the button again.$>",
     "th10 Music Room spoiler 5": "<c$If you do not want to play, please move the cursor.$>",
-    "th13 spell nothing": "Nothing...",
+    "th13 spell nothing": " Nothing... ",
     "th10 Dialog Prompt": "Please select a window mode.",
     "th10 Dialog Fullscreen": "Full screen",
     "th10 Dialog Always ask": "Always ask",
@@ -525,5 +525,7 @@
     "th185 config": "Bulletphiles' Black Market - Environment Custom Program",
     "th185 JP": "100th Black Market",
     "th19 JP": "Unfinished Dream of All Living Ghost",
-    "th19 net latency none notice": "Can play as easily as in the local play: suitable for super-high speed connection"
+    "th19 net latency none notice": "Can play as easily as in the local play: suitable for super-high speed connection",
+    "th135 artist akiyama uni": "(U2 Akiyama)",
+    "th135 artist zun": "(ZUN)"
 }
