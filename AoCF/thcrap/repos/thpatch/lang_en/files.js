@@ -1,6 +1,6 @@
 {
   "patch.js": 891309313,
-  "stringdefs.js": 3275378529,
+  "stringdefs.js": 3294168039,
   "th06.js": 1747286588,
   "th09.js": 1042614841,
   "th155/data/actor/common_texture/win1P.png": 3761571513,
@@ -381,6 +381,6 @@
   "th155/data/win/message/yukari.csv.jdiff": 180522787,
   "th155/nut_strings.js": 2378165397,
   "th155/spells.js": 4021483514,
-  "themes.js": 3256677489,
+  "themes.js": 1038608215,
   "title03.anm.jdiff": null
 }

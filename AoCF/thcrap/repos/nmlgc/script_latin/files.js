@@ -6,8 +6,8 @@
   "global.js": 4014530795,
   "marilega.js": 2597165367,
   "marilega.v1.10.js": 1751781464,
-  "patch.js": 837298098,
-  "stringdefs.js": 3419790970,
+  "patch.js": 1819246082,
+  "stringdefs.js": 1992554787,
   "th06.js": 3794604019,
   "th07.js": 1747286588,
   "th08.js": 1747286588,
@@ -173,10 +173,10 @@
   "th155/data/system/key_config/key_config.pat": 3803400887,
   "th155/data/system/select/character_select.pat": 710519323,
   "th155/data/system/select/name/name.pat": 431835873,
-  "th155/data/system/select/name/name_004.png": 1876516881,
+  "th155/data/system/select/name/name_004.png": 2808894779,
   "th155/data/system/select/name/name_005.png": 1247391591,
-  "th155/data/system/select/name/name_009.png": 246551687,
-  "th155/data/system/select/name/name_012.png": 3765984459,
+  "th155/data/system/select/name/name_009.png": 3906285419,
+  "th155/data/system/select/name/name_012.png": 1713924084,
   "th155/data/system/select/name/name_014.png": 2345423510,
   "th155/data/system/select/name/name_015.png": 3334853929,
   "th155/data/system/select/name/name_c_004.png": 1262792865,
@@ -214,5 +214,6 @@
   "th18.v1.00a.js": 1618780412,
   "th185.v1.00a.js": 2993143457,
   "th19.v1.00a.js": 1334424449,
-  "th19.v1.10c.js": 845518108
+  "th19.v1.10c.js": 845518108,
+  "th20.v0.01a.js": 2088001990
 }

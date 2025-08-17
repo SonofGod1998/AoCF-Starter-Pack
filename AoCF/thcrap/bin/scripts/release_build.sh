@@ -7,16 +7,16 @@ FILES_LIST="bin/act_nut_lib.dll \
     bin/cacert.pem \
     bin/fribidi.dll \
     bin/jansson.dll \
-    bin/libcrypto-1_1.dll \
+    bin/libcrypto-3.dll \
     bin/libcurl.dll \
     bin/libpng16.dll \
-    bin/libssl-1_1.dll \
+    bin/libssl-3.dll \
     bin/Microsoft.Bcl.AsyncInterfaces.dll \
     bin/Microsoft.WindowsAPICodePack.dll \
     bin/Microsoft.WindowsAPICodePack.Shell.dll \
     bin/Microsoft.WindowsAPICodePack.ShellExtensions.dll \
     bin/Microsoft.Xaml.Behaviors.dll \
-    bin/scripts/install_dotnet461.sh \
+    bin/scripts/install_dotnet480.sh \
     bin/scripts/setup_mirror.bat \
     bin/steam_api.dll \
     bin/System.Buffers.dll \
@@ -30,6 +30,7 @@ FILES_LIST="bin/act_nut_lib.dll \
     bin/thcrap_configure.exe \
     bin/thcrap_configure_v3.exe \
     bin/thcrap_configure_v3.exe.config \
+    bin/thcrap_cs_lib.dll \
     bin/thcrap.dll \
     bin/thcrap_i18n.dll \
     bin/thcrap_loader.exe \
@@ -228,6 +229,12 @@ cd thcrap
 7z a ../thcrap.zip *
 cd ..
 python3 ./git_thcrap/scripts/release_sign.py -k cert.pem thcrap.zip
+
+if [ thcrap.zip -nt thcrap.zip.sig ]; then
+    echo "Error: thcrap.zip is more recent than thcrap.zip.sig"
+    ls -l thcrap.zip thcrap.zip.sig
+    confirm "Continue anyway? (not recommended)"
+fi
 
 rm -f thcrap_symbols.zip
 cd git_thcrap/bin
