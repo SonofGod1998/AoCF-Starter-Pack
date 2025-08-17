@@ -1,5 +1,6 @@
 {
-  "patch.js": 1855143033,
+  "patch.js": 1618584384,
+  "stringdefs.js": 1523769860,
   "th155/data/actor/hijiri/texture/win_hijiri.png": 957801920,
   "th155/data/actor/ichirin/texture/win_ichirin.png": 977468820,
   "th155/data/actor/jyoon/texture/win_jyoon.png": 2344635835,
