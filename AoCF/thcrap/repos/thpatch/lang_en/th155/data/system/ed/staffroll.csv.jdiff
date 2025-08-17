@@ -348,14 +348,6 @@
         "_": "_",
         "0": "Touhou Patch Center"
     },
-    "153": {
-        "_": "_",
-        "0": "Special Thanks"
-    },
-    "154": {
-        "_": "_",
-        "0": "dada"
-    },
     "155": {
         "_": "_",
         "0": "MOCHI Second"
@@ -376,9 +368,13 @@
         "_": "_",
         "0": "Takashi Mizushima (Nyahhoiya)"
     },
-    "162": {
+    "160": {
         "_": "_",
         "0": "Presented by"
+    },
+    "161": {
+        "_": "_",
+        "0": "Twilight Frontier"
     },
     "163": {
         "_": "_",

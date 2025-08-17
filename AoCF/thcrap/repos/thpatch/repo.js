@@ -15,7 +15,7 @@
         "https://mirrors.thpatch.net/MasterGameFTW3561/",
         "https://raw.githubusercontent.com/Tearff/Tear/master/",
         "https://raw.githubusercontent.com/GhostPhanom/GhostPhanom-Thcrap/master/",
-        "https://mirrors.thpatch.net/Bravi/",
+        "https://raw.githubusercontent.com/BraviNoname/Bravi/master/",
         "https://raw.githubusercontent.com/Priw8/thmod/master/",
         "https://mirrors.thpatch.net/Splashman/",
         "https://mirrors.thpatch.net/MoriyaFaith/",
@@ -33,7 +33,7 @@
         "https://mirrors.thpatch.net/AsyrafFile/",
         "https://raw.githubusercontent.com/ExpHP/thcrap-patches/master/patches/",
         "https://raw.githubusercontent.com/Arandui/trash_patch/master/",
-        "https://mirrors.thpatch.net/tpZHCNex/",
+        "https://mirrors.thpatch.net/script_zh-hans/",
         "https://raw.githubusercontent.com/bttf0504/thmod/master/",
         "https://raw.githubusercontent.com/chrisGrando/thcrap-patches/master/",
         "https://mirrors.thpatch.net/sqrt/",
@@ -61,7 +61,7 @@
         "https://mirrors.thpatch.net/SuperChrim/",
         "https://mirrors.thpatch.net/TRDario/",
         "https://mirrors.thpatch.net/yuureiki/",
-        "https://mirrors.thpatch.net/tpZHCHTex/",
+        "https://mirrors.thpatch.net/script_zh-hant/",
         "https://mirrors.thpatch.net/farawayvision/",
         "https://raw.githubusercontent.com/megapig9001/megapig9001-mods/main/",
         "https://mirrors.thpatch.net/SSM/",
@@ -74,7 +74,10 @@
         "https://mirrors.thpatch.net/Wensomt/",
         "https://raw.githubusercontent.com/Uielicious/thcrap-projects/main/",
         "https://mirrors.thpatch.net/takuneru/",
-        "https://mirrors.thpatch.net/RosePenguin/"
+        "https://mirrors.thpatch.net/RosePenguin/",
+        "https://mirrors.thpatch.net/Krushal/",
+        "https://raw.githubusercontent.com/khang06/touhou-patches/master/",
+        "https://mirrors.thpatch.net/TeamEclecticAnthologists/"
     ],
     "url_desc": "http://thpatch.net/wiki/Category:Patches",
     "servers": [
@@ -204,6 +207,8 @@
         "lang_aeb": "Tunisian Arabic language pack",
         "lang_gn-jopara": "Jopara language pack",
         "lang_es-peru": "Peruvian Spanish language pack",
-        "lang_es-ar-ba": "Porteños Argentine Spanish language pack"
+        "lang_es-ar-ba": "Porteños Argentine Spanish language pack",
+        "lang_es-neu": "Neutral Spanish language pack",
+        "lang_es-ecuador": "Ecuadorian Spanish language pack"
     }
 }
